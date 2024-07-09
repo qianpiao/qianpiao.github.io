@@ -35,7 +35,7 @@ Publications
 
 <span style="color:red">**[通信学报]**</span> **马千飘**, 贾庆民, 刘建春, 徐宏力, 谢人超, 黄韬, 异构边缘计算环境下异步联邦学习的节点分组与分时调度策略, _通信学报_, 2023, 44(11): 79-93. (<span style="color:green">**中文CCF-T1**</span>)
 
-<span style="color:red">**[WASA’24]**</span> Qianpiao Ma, Jianchun Liu, Qingmin Jia, Xiaomao Zhou, Yujiao Hu, Renchao Xie, “Dynamic Staleness Control for Asynchronous Federated Learning in Decentralized Topology”,  _The 18th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)_, 2024. (<span style="color:green">**CCF-C**</span>)
+<span style="color:red">**[WASA’24]**</span> **Qianpiao Ma**, Jianchun Liu, Qingmin Jia, Xiaomao Zhou, Yujiao Hu, Renchao Xie, “Dynamic Staleness Control for Asynchronous Federated Learning in Decentralized Topology”,  _The 18th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)_, 2024. (<span style="color:green">**CCF-C**</span>)
 
 <span style="color:red">**[TBD]**</span>[TNSE] Da Yao, **Qianpiao Ma\***, Haibo Wang, Min Chen, Hongli Xu, “Distributed Strategy for Collaborative Traffic Measurement in a Multi-Controller SDN”, _IEEE Transactions on Network Science and Engineering (TNSE)_, 2023. (<span style="color:green">**中科院二区Trans**</span>)
 
