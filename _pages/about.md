@@ -15,10 +15,11 @@ I received my Ph.D. in the School of Computer Science, [University of Science an
 
 Experience
 ======
-- 2022.07 - 2024.07 | Purple Mountain Laboratories                   | Post-doctoral researcher
-- 2019.09 - 2022.06 | University of Science and Technology of China  | Ph. D.
-- 2017.09 - 2019.06 | University of Science and Technology of China  | Master
-- 2010.09 - 2014.06 | University of Science and Technology of China  | Bachelor
+- 2022.07 - 2024.07    Purple Mountain Laboratories                   Post-doctoral researcher
+- 2019.09 - 2022.06    University of Science and Technology of China  Ph. D.
+- 2017.09 - 2019.06    University of Science and Technology of China  Master
+- 2010.09 - 2014.06    University of Science and Technology of China  Bachelor
+
 
 
 Getting started
