@@ -22,14 +22,37 @@ Experience
 
 
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, IEEE Journal on Selected Areas in Communications (JSAC) , 2021, 39(12): 3654-3672. (CCF-A, 中科院一区, 谷歌学术引用过百)
+
+**[TMC]** **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, IEEE Transactions on Mobile Computing (TMC), 2024. (CCF-A期刊, 中科院二区Trans)
+
+**[TVT]** **Qianpiao Ma**, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao, “Fully Distributed Task Offloading in Vehicular Edge Computing”, IEEE Transactions on Vehicular Technology (TVT), 2023. (中科院二区Trans)
+
+**[TBD]** **Qianpiao Ma**, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie, “FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning”, IEEE Transactions on Big Data (TBD), 2024. (中科院二区Trans)
+
+[通信学报] **马千飘**, 贾庆民, 刘建春, 徐宏力, 谢人超, 黄韬, 异构边缘计算环境下异步联邦学习的节点分组与分时调度策略, 通信学报, 2023, 44(11): 79-93. (中文CCF-T1)
+
+[WASA'24] Qianpiao Ma, Jianchun Liu, Qingmin Jia, Xiaomao Zhou, Yujiao Hu, Renchao Xie, “Dynamic Staleness Control for Asynchronous Federated Learning in Decentralized Topology”,  WASA’24, 2024. (CCF-C)
+
+[TNSE] Da Yao, **Qianpiao Ma\***, Haibo Wang, Min Chen, Hongli Xu, “Distributed Strategy for Collaborative Traffic Measurement in a Multi-Controller SDN”, IEEE Transactions on Network Science and Engineering (TNSE), 2023. (中科院二区Trans)
+
+[IOT] Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, **Qianpiao Ma\***, Jinyang Huang, “FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices”,  IEEE Internet of Things Journal (IOT), 2024. (中科院一区)
+
+[INFOCOM'19] Hongli Xu, Shigang Chen, **Qianpiao Ma**, Liusheng Huang, “Lightweight flow distribution for collaborative traffic measurement in software defined networks”, IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019: 1108-1116. (CCF-A)
+
+[TON] Jun Liu, Jianchun Liu, Hongli Xu, Yunming Liao, Zhiyuan Wang, **Qianpiao Ma**, “Yoga: Adaptive layer-wise model aggregation for decentralized federated learning”, IEEE/ACM Transactions on Networking (TON), 2023. (CCF-A)
+
+[IWQoS'24] Xianjun Gao, Jianchun Liu, Hongli Xu, **Qianpiao Ma**, Lun Wang, “Towards Communication-Efficient Federated Graph Learning: An Adaptive Client Selection Perspective”, IWQoS’24. (CCF-B)
+
+[ICPADS'23] Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, **Qianpiao Ma**, Jinyang Huang, “FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning”, ICPADS’23, IEEE, 2023: 964-971. (CCF-C会议)
+
+[物联网学报] 周晓茂, 贾庆民, 胡玉姣, 郭凯, **马千飘**, 刘辉, 谢人超, 自智算力网络: 架构, 技术与展望, 物联网学报, 2023, 7(4): 1-12. (中文CCF-T2)
+
+[ICCCBDA’20] Yang Liu, **Qianpiao Ma**. “Service Placement Considering Robustness and Dynamic in Edge Computing”, IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA). IEEE, 2021: 369-374. (EI)
+
+
 
 Site-wide configuration
 ------
