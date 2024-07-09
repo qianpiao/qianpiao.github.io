@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qianpiao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,14 +27,14 @@ author:
   bio              : "Ph. D."
   location         : "Nanjing, Jiangsu, China"
   employer         : "University"
-  uri              : https://qianpiao.github.io/
-  email            : "none@example.org" 
+  uri              : # URL
+  email            : "maqiu@mail.ustc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=1EHfdQ8AAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8684-3495"
+  orcid            : "https://orcid.org/0000-0001-8684-3495"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Qianpiao-Ma"
