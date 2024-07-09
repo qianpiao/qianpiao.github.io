@@ -25,8 +25,7 @@ Experience
 Publications
 ======
 <span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, IEEE Journal on Selected Areas in Communications (JSAC) , 2021, 39(12): 3654-3672. 
-(<span style="color:red">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)
-
+(<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)
 <span style="color:red">**[TMC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, IEEE Transactions on Mobile Computing (TMC), 2024. (CCF-A期刊, 中科院二区Trans)
 
 <span style="color:red">**[TVT]**</span> **Qianpiao Ma**, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao, “Fully Distributed Task Offloading in Vehicular Edge Computing”, IEEE Transactions on Vehicular Technology (TVT), 2023. (中科院二区Trans)
