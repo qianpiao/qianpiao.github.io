@@ -27,7 +27,8 @@ Publications
 <span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _IEEE Journal on Selected Areas in Communications (JSAC)_ , 2021, 39(12): 3654-3672. 
 (<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)**[[<u>PDF</u>](https://ieeexplore.ieee.org/abstract/document/9562538)]**
 
-<span style="color:red">**[TMC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, _IEEE Transactions on Mobile Computing (TMC)_, 2024. (<span style="color:green">**CCF-A, 中科院二区Trans**</span>)
+<span style="color:red">**[TMC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, _IEEE Transactions on Mobile Computing (TMC)_, 2024. (<span style="color:green">**CCF-A, 中科院二区Trans**</span>)**[<a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank"><u>PDF</u></a>]**
+
 
 <span style="color:red">**[TVT]**</span> **Qianpiao Ma**, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao, “Fully Distributed Task Offloading in Vehicular Edge Computing”, _IEEE Transactions on Vehicular Technology (TVT)_, 2023. (<span style="color:green">**中科院二区Trans**</span>)
 
