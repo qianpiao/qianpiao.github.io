@@ -25,34 +25,34 @@ Experience
 Publications
 ======
 <span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _IEEE Journal on Selected Areas in Communications (JSAC)_ , 2021, 39(12): 3654-3672. 
-(<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)**[[<u>PDF</u>](https://ieeexplore.ieee.org/abstract/document/9562538)]**
+(<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">PDF</a>**]
 
-<span style="color:red">**[TMC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, _IEEE Transactions on Mobile Computing (TMC)_, 2024. (<span style="color:green">**CCF-A, 中科院二区Trans**</span>)**[<a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank"><u>PDF</u></a>]**
+<span style="color:red">**[TMC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, _IEEE Transactions on Mobile Computing (TMC)_, 2024. (<span style="color:green">**CCF-A, 中科院二区Trans**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank">PDF</a>**]
 
 
-<span style="color:red">**[TVT]**</span> **Qianpiao Ma**, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao, “Fully Distributed Task Offloading in Vehicular Edge Computing”, _IEEE Transactions on Vehicular Technology (TVT)_, 2023. (<span style="color:green">**中科院二区Trans**</span>)
+<span style="color:red">**[TVT]**</span> **Qianpiao Ma**, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao, “Fully Distributed Task Offloading in Vehicular Edge Computing”, _IEEE Transactions on Vehicular Technology (TVT)_, 2023. (<span style="color:green">**中科院二区Trans**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank">PDF</a>**]
 
-<span style="color:red">**[TBD]**</span> **Qianpiao Ma**, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie, “FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning”, _IEEE Transactions on Big Data (TBD)_, 2024. (<span style="color:green">**中科院二区Trans**</span>)
+<span style="color:red">**[TBD]**</span> **Qianpiao Ma**, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie, “FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning”, _IEEE Transactions on Big Data (TBD)_, 2024. (<span style="color:green">**中科院二区Trans**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank">PDF</a>**]
 
-<span style="color:red">**[通信学报]**</span> **马千飘**, 贾庆民, 刘建春, 徐宏力, 谢人超, 黄韬, 异构边缘计算环境下异步联邦学习的节点分组与分时调度策略, _通信学报_, 2023, 44(11): 79-93. (<span style="color:green">**中文CCF-T1**</span>)
+<span style="color:red">**[通信学报]**</span> **马千飘**, 贾庆民, 刘建春, 徐宏力, 谢人超, 黄韬, 异构边缘计算环境下异步联邦学习的节点分组与分时调度策略, _通信学报_, 2023, 44(11): 79-93. (<span style="color:green">**中文CCF-T1**</span>)[**<a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank">PDF</a>**]
 
 <span style="color:red">**[WASA’24]**</span> **Qianpiao Ma**, Jianchun Liu, Qingmin Jia, Xiaomao Zhou, Yujiao Hu, Renchao Xie, “Dynamic Staleness Control for Asynchronous Federated Learning in Decentralized Topology”,  _The 18th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA)_, 2024. (<span style="color:green">**CCF-C**</span>)
 
-<span style="color:red">**[TBD]**</span>[TNSE] Da Yao, **Qianpiao Ma\***, Haibo Wang, Min Chen, Hongli Xu, “Distributed Strategy for Collaborative Traffic Measurement in a Multi-Controller SDN”, _IEEE Transactions on Network Science and Engineering (TNSE)_, 2023. (<span style="color:green">**中科院二区Trans**</span>)
+<span style="color:red">**[TNSE]**</span>[TNSE] Da Yao, **Qianpiao Ma\***, Haibo Wang, Min Chen, Hongli Xu, “Distributed Strategy for Collaborative Traffic Measurement in a Multi-Controller SDN”, _IEEE Transactions on Network Science and Engineering (TNSE)_, 2023. (<span style="color:green">**中科院二区Trans**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10109878" target="_blank">PDF</a>**]
 
-<span style="color:red">**[IOT]**</span> Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, **Qianpiao Ma\***, Jinyang Huang, “FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices”,  _IEEE Internet of Things Journal (IOT)_, 2024. (<span style="color:green">**中科院一区**</span>)
+<span style="color:red">**[IOT]**</span> Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, **Qianpiao Ma\***, Jinyang Huang, “FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices”,  _IEEE Internet of Things Journal (IOT)_, 2024. (<span style="color:green">**中科院一区**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10443215" target="_blank">PDF</a>**]
 
-<span style="color:red">**[INFOCOM’19]]**</span> Hongli Xu, Shigang Chen, **Qianpiao Ma**, Liusheng Huang, “Lightweight flow distribution for collaborative traffic measurement in software defined networks”, _IEEE INFOCOM 2019-IEEE Conference on Computer Communications_. IEEE, 2019: 1108-1116. (<span style="color:green">**CCF-A**</span>)
+<span style="color:red">**[INFOCOM’19]]**</span> Hongli Xu, Shigang Chen, **Qianpiao Ma**, Liusheng Huang, “Lightweight flow distribution for collaborative traffic measurement in software defined networks”, _IEEE INFOCOM 2019-IEEE Conference on Computer Communications_. IEEE, 2019: 1108-1116. (<span style="color:green">**CCF-A**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/8737516" target="_blank">PDF</a>**]
 
-<span style="color:red">**[TON]**</span> Jun Liu, Jianchun Liu, Hongli Xu, Yunming Liao, Zhiyuan Wang, **Qianpiao Ma**, “Yoga: Adaptive layer-wise model aggregation for decentralized federated learning”, _IEEE/ACM Transactions on Networking (TON)_, 2023. (<span style="color:green">**CCF-A**</span>)
+<span style="color:red">**[TON]**</span> Jun Liu, Jianchun Liu, Hongli Xu, Yunming Liao, Zhiyuan Wang, **Qianpiao Ma**, “Yoga: Adaptive layer-wise model aggregation for decentralized federated learning”, _IEEE/ACM Transactions on Networking (TON)_, 2023. (<span style="color:green">**CCF-A**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10309973" target="_blank">PDF</a>**]
 
 <span style="color:red">**[IWQoS’24]**</span> Xianjun Gao, Jianchun Liu, Hongli Xu, **Qianpiao Ma**, Lun Wang, “Towards Communication-Efficient Federated Graph Learning: An Adaptive Client Selection Perspective”, _IEEE/ACM International Workshop on Quality of Service_,2024. (<span style="color:green">**CCF-B**</span>)
 
-<span style="color:red">**[ICPADS’23]**</span> Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, **Qianpiao Ma**, Jinyang Huang, “FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning”, _2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)_, IEEE, 2023: 964-971. (<span style="color:green">**CCF-C**</span>)
+<span style="color:red">**[ICPADS’23]**</span> Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, **Qianpiao Ma**, Jinyang Huang, “FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning”, _2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)_, IEEE, 2023: 964-971. (<span style="color:green">**CCF-C**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10476088" target="_blank">PDF</a>**]
 
-<span style="color:red">**[物联网学报]**</span> 周晓茂, 贾庆民, 胡玉姣, 郭凯, **马千飘**, 刘辉, 谢人超, 自智算力网络: 架构, 技术与展望, _物联网学报_, 2023, 7(4): 1-12. (<span style="color:green">**中文CCF-T2**</span>)
+<span style="color:red">**[物联网学报]**</span> 周晓茂, 贾庆民, 胡玉姣, 郭凯, **马千飘**, 刘辉, 谢人超, 自智算力网络: 架构, 技术与展望, _物联网学报_, 2023, 7(4): 1-12. (<span style="color:green">**中文CCF-T2**</span>)[**<a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">PDF</a>**]
 
-<span style="color:red">**[ICCCBDA’20]**</span> Yang Liu, **Qianpiao Ma**. “Service Placement Considering Robustness and Dynamic in Edge Computing”, _IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)_. IEEE, 2021: 369-374. (<span style="color:green">**EI**</span>)
+<span style="color:red">**[ICCCBDA’20]**</span> Yang Liu, **Qianpiao Ma**. “Service Placement Considering Robustness and Dynamic in Edge Computing”, _IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)_. IEEE, 2021: 369-374. (<span style="color:green">**EI**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">PDF</a>**]
 
 
 
