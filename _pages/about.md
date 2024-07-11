@@ -55,10 +55,18 @@ Publications
 <span style="color:red">**[ICCCBDA’20]**</span> Yang Liu, **Qianpiao Ma**. “Service Placement Considering Robustness and Dynamic in Edge Computing”, _IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)_. IEEE, 2021: 369-374. (<span style="color:green">**EI**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a>**]
 
 
+Grants
+======
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**主持项目**
+
+- 江苏省人社厅, 江苏省卓越博士后计划（揭榜领题），JB23085，大规模异构网络下的边缘智能关键技术研究，2022-7-1 至2024-6-30，30万元
+
+**参与项目**
+
+- 国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元
+- 国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元
+
 
 Create content & metadata
 ------
