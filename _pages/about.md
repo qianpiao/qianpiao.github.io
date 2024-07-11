@@ -25,7 +25,7 @@ Experience
 Publications
 ======
 <span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _IEEE Journal on Selected Areas in Communications (JSAC)_ , 2021, 39(12): 3654-3672. 
-(<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://github.com/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**]
+(<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://github.com/qianpiao/qianpiao.github.io/tree/master/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**]
 
 <span style="color:red">**[TMC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, _IEEE Transactions on Mobile Computing (TMC)_, 2024. (<span style="color:green">**CCF-A, 中科院二区Trans**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank">Link</a>**]
 
