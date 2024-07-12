@@ -14,16 +14,14 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 
 
 ## Experience
-======
+
 - 2022.07 - 2024.07    Purple Mountain Laboratories                   Post-doctoral researcher
 - 2019.09 - 2022.06    University of Science and Technology of China  Ph. D.
 - 2017.09 - 2019.06    University of Science and Technology of China  Master
 - 2010.09 - 2014.06    University of Science and Technology of China  Bachelor
 
-
-
 ## Publications
-======
+
 <span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _IEEE Journal on Selected Areas in Communications (JSAC)_ , 2021, 39(12): 3654-3672. 
 (<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a>**]
 
@@ -56,7 +54,6 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 
 
 ## Grants
-======
 
 **主持项目**
 
@@ -67,10 +64,7 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 - 国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元
 - 国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元
 
-
 ## Academic Services
-======
-
 
 - IEEE Journal on Selected Areas in Communications
 - IEEE Transactions on Mobile Computing
