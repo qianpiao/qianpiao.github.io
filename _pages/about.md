@@ -64,7 +64,7 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 - 国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元
 - 国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元
 
-## Academic Services
+## Services
 
 - IEEE Journal on Selected Areas in Communications
 - IEEE Transactions on Mobile Computing
