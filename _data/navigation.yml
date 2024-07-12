@@ -1,6 +1,7 @@
 # main links links
 main:
-  - title: "[Publications](https://qianpiao.github.io/#Publications)"
+  - title: "Publications"
+    url: https://qianpiao.github.io/#Publications   
 
   - title: "Talks"
     url: /talks/    
