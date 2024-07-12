@@ -13,7 +13,7 @@ redirect_from:
 I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, supervised by Prof. Hongli Xu and Prof. Chunming Qiao. Before starting my Ph.D. study, I received my Bachelor's degree from University of Science and Technology of China (USTC) in 2014. I was a post-doctoral researcher at Purple Mountain Laboratories from July 2022 to July 2024. My research interests include edge computing, federated learning, and distributed machine learning.
 
 
-Experience
+## Experience
 ======
 - 2022.07 - 2024.07    Purple Mountain Laboratories                   Post-doctoral researcher
 - 2019.09 - 2022.06    University of Science and Technology of China  Ph. D.
@@ -55,7 +55,7 @@ Experience
 <span style="color:red">**[ICCCBDA’20]**</span> Yang Liu, **Qianpiao Ma**. “Service Placement Considering Robustness and Dynamic in Edge Computing”, _IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)_. IEEE, 2021: 369-374. (<span style="color:green">**EI**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a>**]
 
 
-Grants
+## Grants
 ======
 
 **主持项目**
@@ -68,7 +68,7 @@ Grants
 - 国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元
 
 
-Academic Services
+## Academic Services
 ======
 
 
