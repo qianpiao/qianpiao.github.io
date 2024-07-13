@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qianpiao Ma's Academic Pages"
+title: "Qianpiao Ma's Academic Page"
 author_profile: true
 redirect_from: 
   - /about/
