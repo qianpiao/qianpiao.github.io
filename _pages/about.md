@@ -10,45 +10,12 @@ redirect_from:
 
 
 
-I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, supervised by Prof. Hongli Xu and Prof. Chunming Qiao. Before starting my Ph.D. study, I received my Bachelor's degree from University of Science and Technology of China (USTC) in 2014. I was a post-doctoral researcher at Purple Mountain Laboratories from July 2022 to July 2024. My research interests include edge computing, federated learning, and distributed machine learning.
+I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, supervised by <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Prof. Hongli Xu</a> and Prof. Chunming Qiao. Before starting my Ph.D. study, I received my Bachelor's degree from University of Science and Technology of China (USTC) in 2014. I was a post-doctoral researcher at Purple Mountain Laboratories from July 2022 to July 2024. My research interests include edge computing, federated learning, and distributed machine learning.
+
 
 
 ## Experience
 
-
-
-|-----------------------------|------------------------------------------------------------|--------------------------|
-| 2022.07 - 2024.07           | Purple Mountain Laboratories                               | Post-doctoral researcher |
-| 2019.09 - 2022.06           | University of Science and Technology of China, USTC-INT Group | Ph. D.                   |
-| 2017.09 - 2019.06           | University of Science and Technology of China, USTC-INT Group | Master                  |
-| 2010.09 - 2014.06           | University of Science and Technology of China              | Bachelor                |
-
-
-
-  
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2022.07 - 2024.07</td>
-    <td style="border: none; padding: 8px;">Purple Mountain Laboratories</td>
-    <td style="border: none; padding: 8px;">Post-doctoral researcher</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
-    <td style="border: none; padding: 8px;">Ph. D.</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2017.09 - 2019.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
-    <td style="border: none; padding: 8px;">Master</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2010.09 - 2014.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China</td>
-    <td style="border: none; padding: 8px;">Bachelor</td>
-  </tr>
-</table>
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
@@ -58,7 +25,7 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China, <a href="https://int-ustc.github.io/" target="_blank">USTC-INT Group</a></td>
     <td style="border: none; padding: 8px;">Ph. D.</td>
   </tr>
   <tr style="border: none;">
