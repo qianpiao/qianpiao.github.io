@@ -30,6 +30,12 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 2010.09 - 2014.06          University of Science and Technology of China                                   Bachelor  
 
 
+2022.07 - 2024.07  Purple Mountain Laboratories                   Post-doctoral researcher
+2019.09 - 2022.06  University of Science and Technology of China, USTC-INT Group  Ph. D.
+2017.09 - 2019.06  University of Science and Technology of China, USTC-INT Group  Master
+2010.09 - 2014.06  University of Science and Technology of China  Bachelor
+
+
 
 
 
