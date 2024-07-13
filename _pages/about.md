@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, supervised by <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Prof. Hongli Xu</a> and Prof. Chunming Qiao. Before starting my Ph.D. study, I received my Bachelor's degree from University of Science and Technology of China (USTC) in 2014. I was a post-doctoral researcher at Purple Mountain Laboratories from July 2022 to July 2024. My research interests include edge computing, federated learning, and distributed machine learning.
+I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Prof. Hongli Xu</a> and Prof. Chunming Qiao. Before starting my Ph.D. study, I received my Bachelor's degree from University of Science and Technology of China (USTC) in 2014. I was a post-doctoral researcher at Purple Mountain Laboratories from July 2022 to July 2024. My research interests include edge computing, federated learning, and distributed machine learning.
 
 
 
