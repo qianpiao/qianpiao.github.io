@@ -31,11 +31,22 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 
 
 
-2022.07 - 2024.07&nbsp;&nbsp;&nbsp;&nbsp;Purple Mountain Laboratories&nbsp;&nbsp;&nbsp;&nbsp;Post-doctoral researcher  
-2019.09 - 2022.06&nbsp;&nbsp;&nbsp;&nbsp;University of Science and Technology of China, USTC-INT Group&nbsp;&nbsp;&nbsp;&nbsp;Ph. D.  
-2017.09 - 2019.06&nbsp;&nbsp;&nbsp;&nbsp;University of Science and Technology of China, USTC-INT Group&nbsp;&nbsp;&nbsp;&nbsp;Master  
-2010.09 - 2014.06&nbsp;&nbsp;&nbsp;&nbsp;University of Science and Technology of China&nbsp;&nbsp;&nbsp;&nbsp;Bachelor  
+- **2022.07 - 2024.07**  Purple Mountain Laboratories    
+  Post-doctoral researcher  
+  
+- **2019.09 - 2022.06**  University of Science and Technology of China, USTC-INT Group    
+  Ph.D.  
+  
+- **2017.09 - 2019.06**  University of Science and Technology of China, USTC-INT Group    
+  Master  
+  
+- **2010.09 - 2014.06**  University of Science and Technology of China    
+  Bachelor
 
+<p>2022.07 - 2024.07        Purple Mountain Laboratories        Post-doctoral researcher</p>
+<p>2019.09 - 2022.06        University of Science and Technology of China, USTC-INT Group        Ph. D.</p>
+<p>2017.09 - 2019.06        University of Science and Technology of China, USTC-INT Group        Master</p>
+<p>2010.09 - 2014.06        University of Science and Technology of China        Bachelor</p>
 
 
 
