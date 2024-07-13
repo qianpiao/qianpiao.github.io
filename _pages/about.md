@@ -24,35 +24,36 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 | 2010.09 - 2014.06           | University of Science and Technology of China              | Bachelor                |
 
 
+
+  
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2022.07 - 2024.07</td>
+    <td style="border: none; padding: 8px;">Purple Mountain Laboratories</td>
+    <td style="border: none; padding: 8px;">Post-doctoral researcher</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
+    <td style="border: none; padding: 8px;">Ph. D.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2017.09 - 2019.06</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
+    <td style="border: none; padding: 8px;">Master</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2010.09 - 2014.06</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China</td>
+    <td style="border: none; padding: 8px;">Bachelor</td>
+  </tr>
+</table>
+
 2022.07 - 2024.07          Purple Mountain Laboratories                                                    Post-doctoral researcher  
 2019.09 - 2022.06          University of Science and Technology of China, USTC-INT Group                   Ph. D.  
 2017.09 - 2019.06          University of Science and Technology of China, USTC-INT Group                   Master  
 2010.09 - 2014.06          University of Science and Technology of China                                   Bachelor  
-  
-
-<table>
-  <tr>
-    <td>2022.07 - 2024.07</td>
-    <td>Purple Mountain Laboratories</td>
-    <td>Post-doctoral researcher</td>
-  </tr>
-  <tr>
-    <td>2019.09 - 2022.06</td>
-    <td>University of Science and Technology of China, USTC-INT Group</td>
-    <td>Ph. D.</td>
-  </tr>
-  <tr>
-    <td>2017.09 - 2019.06</td>
-    <td>University of Science and Technology of China, USTC-INT Group</td>
-    <td>Master</td>
-  </tr>
-  <tr>
-    <td>2010.09 - 2014.06</td>
-    <td>University of Science and Technology of China</td>
-    <td>Bachelor</td>
-  </tr>
-</table>
-
 
 
 
