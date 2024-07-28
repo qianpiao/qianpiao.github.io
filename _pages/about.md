@@ -1,5 +1,5 @@
+<!--
 ---
-## _
 permalink: /
 title: "Qianpiao Ma's Academic Page"
 author_profile: true
@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+-->
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-
+## About
 
 I am an Associate Professor at the School of Computer Science and Engineering, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology (NJUST)</a>, led by Prof. <a href="https://imag-njust.net/jinhui-tang/" target="_blank">Jinhui Tang</a> and Prof. <a href="http://202.119.85.163/open/TutorInfo.aspx?dsbh=HpJaYd0LkqMrdIfLVIZxvQ==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=" target="_blank">Gongxuan Zhang</a>. I received my Ph.D. at the School of Computer Science and Technology, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by Prof. <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Hongli Xu</a> and Prof. <a href="https://cs.ustc.edu.cn/2020/0828/c23235a460081/page.htm" target="_blank">Liusheng Huang</a>. Prior to that, I received my Bachelor's degree from USTC in 2014. From July 2022 to July 2024, I served as a post-doctoral researcher at Purple Mountain Laboratories. My research interests include edge computing, federated learning, and distributed machine learning.
 
