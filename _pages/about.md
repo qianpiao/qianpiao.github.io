@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Prof. Hongli Xu</a> and Prof. Chunming Qiao. Before starting my Ph.D. study, I received my Bachelor's degree from University of Science and Technology of China (USTC) in 2014. I was a post-doctoral researcher at Purple Mountain Laboratories from July 2022 to July 2024. My research interests include edge computing, federated learning, and distributed machine learning.
+I am an Associate Professor at the School of Computer Science and Engineering, Nanjing University of Science and Technology, led by Prof. <a href="https://imag-njust.net/jinhui-tang/" target="_blank">Jinhui Tang</a> and Prof. <a href="http://202.119.85.163/open/TutorInfo.aspx?dsbh=HpJaYd0LkqMrdIfLVIZxvQ==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=" target="_blank">Gongxuan Zhang</a>. I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by Prof. <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Hongli Xu</a> and Prof. Chunming Qiao. Before starting my Ph.D. study, I received my Bachelor's degree from University of Science and Technology of China (USTC) in 2014. I was a post-doctoral researcher at Purple Mountain Laboratories from July 2022 to July 2024. My research interests include edge computing, federated learning, and distributed machine learning.
 
 
 
@@ -19,9 +19,14 @@ I received my Ph.D. in the School of Computer Science, <a href="https://www.ustc
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2024.08 - now</td>
+    <td style="border: none; padding: 8px;">Nanjing University of Science and Technology</td>
+    <td style="border: none; padding: 8px;">Associate Professor</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">2022.07 - 2024.07</td>
     <td style="border: none; padding: 8px;">Purple Mountain Laboratories</td>
-    <td style="border: none; padding: 8px;">Post-doctoral researcher</td>
+    <td style="border: none; padding: 8px;">Post-doctoral Researcher</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
