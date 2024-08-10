@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am an Associate Professor at the School of Computer Science and Engineering, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology (NJUST)</a>, led by Prof. <a href="https://imag-njust.net/jinhui-tang/" target="_blank">Jinhui Tang</a> and Prof. <a href="http://202.119.85.163/open/TutorInfo.aspx?dsbh=HpJaYd0LkqMrdIfLVIZxvQ==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=" target="_blank">Gongxuan Zhang</a>. I received my Ph.D. at the School of Computer Science and Technology, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by Prof. <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Hongli Xu</a> and Prof. <a href="https://cs.ustc.edu.cn/2020/0828/c23235a460081/page.htm" target="_blank">Liusheng Huang</a>. Prior to that, I received my Bachelor's degree from USTC in 2014. From July 2022 to July 2024, I served as a post-doctoral researcher at <a href="https://www.pmlabs.com.cn/" target="_blank">Purple Mountain Laboratories</a>. My research interests include edge computing, federated learning, and distributed machine learning.
+I am an Associate Professor at the School of Computer Science and Engineering, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology (NJUST)</a>, led by Prof. <a href="https://imag-njust.net/jinhui-tang/" target="_blank">Jinhui Tang</a> and Prof. <a href="http://202.119.85.163/open/TutorInfo.aspx?dsbh=HpJaYd0LkqMrdIfLVIZxvQ==&yxsh=4iVdgPyuKTE=&zydm=QP9JvMVDx3k=" target="_blank">Gongxuan Zhang</a>. I received my Ph.D. at the School of Computer Science and Technology, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by Prof. <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Hongli Xu</a> and Prof. <a href="https://cs.ustc.edu.cn/2020/0828/c23235a460081/page.htm" target="_blank">Liusheng Huang</a>. Prior to that, I received my B.S. degree from USTC in 2014. From July 2022 to July 2024, I served as a post-doctoral researcher at <a href="https://www.pmlabs.com.cn/" target="_blank">Purple Mountain Laboratories</a>. My research interests include edge computing, federated learning, and distributed machine learning.
 
 
 
@@ -35,7 +35,7 @@ I am an Associate Professor at the School of Computer Science and Engineering, <
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2017.09 - 2019.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</a></td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
     <td style="border: none; padding: 8px;">M.S.</td>
   </tr>
   <tr style="border: none;">
@@ -52,7 +52,7 @@ I am an Associate Professor at the School of Computer Science and Engineering, <
 ## Publications
 
 <span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _IEEE Journal on Selected Areas in Communications (JSAC)_ , 2021, 39(12): 3654-3672. 
-(<span style="color:green">**CCF-A, 中科院一区, 谷歌学术引用过百**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a>**]
+(<span style="color:green">**CCF-A, 中科院一区**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a>**]
 
 <span style="color:red">**[TMC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, _IEEE Transactions on Mobile Computing (TMC)_, 2024. (<span style="color:green">**CCF-A, 中科院二区Trans**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedUC_A_Unified_Clustering_Approach_for_Hierarchical_Federated_Learning.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedUC.html" target="_blank">BIB</a>**]
 
