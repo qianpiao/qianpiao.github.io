@@ -29,14 +29,19 @@ I am an Associate Professor at the School of Computer Science and Engineering, <
     <td style="border: none; padding: 8px;">Post-doctoral Researcher</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2017.09 - 2022.06</td>
+    <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
     <td style="border: none; padding: 8px;">University of Science and Technology of China, <a href="https://int-ustc.github.io/" target="_blank">USTC-INT Group</a></td>
-    <td style="border: none; padding: 8px;">Ph. D.</td>
+    <td style="border: none; padding: 8px;">Ph.D.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2017.09 - 2019.06</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</a></td>
+    <td style="border: none; padding: 8px;">M.S.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">2010.09 - 2014.06</td>
     <td style="border: none; padding: 8px;">University of Science and Technology of China</td>
-    <td style="border: none; padding: 8px;">Bachelor</td>
+    <td style="border: none; padding: 8px;">B.S.</td>
   </tr>
 </table>
 
