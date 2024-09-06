@@ -51,6 +51,10 @@ I am an Associate Professor at the School of Computer Science and Engineering, <
 
 ## Publications
 
+<span style="font-size:10px"><span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _IEEE Journal on Selected Areas in Communications (JSAC)_ , 2021, 39(12): 3654-3672. 
+(<span style="color:green">**CCF-A, 中科院一区**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a>**]</span>
+
+
 <span style="color:red">**[JSAC]**</span> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _IEEE Journal on Selected Areas in Communications (JSAC)_ , 2021, 39(12): 3654-3672. 
 (<span style="color:green">**CCF-A, 中科院一区**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a>**]
 
