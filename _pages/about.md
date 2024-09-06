@@ -77,7 +77,7 @@ I am an Associate Professor at the School of Computer Science and Engineering, <
 
 <span style="color:red">**[ICPADS’23]**</span> Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, **Qianpiao Ma**, Jinyang Huang, “FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning”, _2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)_, IEEE, 2023: 964-971. (<span style="color:green">**CCF-C**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10476088" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Centralized_Decentralized_Architecture_for_Efficient_Federated_Learning.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedCD_ICPADS.html" target="_blank">BIB</a>**]
 
-<span style="color:red">**[物联网学报]**</span> 周晓茂, 贾庆民, 胡玉姣, 郭凯, **马千飘**, 刘辉, 谢人超, 自智算力网络: 架构, 技术与展望, _物联网学报_, 2023, 7(4): 1-12. (<span style="color:green">**中文CCF-T2**</span>)[**<a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a>**]
+<span style="color:red">**[物联网学报]**</span> 周晓茂, 贾庆民, 胡玉姣, 郭凯, **马千飘**, 刘辉, 谢人超, 自智算力网络: 架构, 技术与展望, _物联网学报_, 2023, 7(4): 1-12. [**<a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a>**]
 
 <span style="color:red">**[ICCCBDA’20]**</span> Yang Liu, **Qianpiao Ma**. “Service Placement Considering Robustness and Dynamic in Edge Computing”, _IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)_. IEEE, 2021: 369-374. [**<a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a>**]
 
