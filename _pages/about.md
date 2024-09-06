@@ -86,23 +86,23 @@ I am an Associate Professor at the School of Computer Science and Engineering, <
 
 **主持项目**
 
-<span style="font-size:16px">- 国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31, 30万元</span>
-<span style="font-size:16px">- 江苏省人社厅, 江苏省卓越博士后计划（揭榜领题）, JB23085, 大规模异构网络下的边缘智能关键技术研究, 2022-7-1 至2024-6-30, 30万元</span>
+- <span style="font-size:16px">国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31, 30万元</span>
+- <span style="font-size:16px">江苏省人社厅, 江苏省卓越博士后计划（揭榜领题）, JB23085, 大规模异构网络下的边缘智能关键技术研究, 2022-7-1 至2024-6-30, 30万元</span>
 
 **参与项目**
 
-<span style="font-size:16px">- 国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span>
-<span style="font-size:16px">- 国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span>
+- <span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span>
+- <span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span>
 
 ## Services
 
-<span style="font-size:16px">- IEEE Journal on Selected Areas in Communications</span>
-<span style="font-size:16px">- IEEE Transactions on Mobile Computing</span>
-<span style="font-size:16px">- IEEE Transactions on Services Computing</span>
-<span style="font-size:16px">- IEEE Transactions on Wireless Communications</span>
-<span style="font-size:16px">- IEEE Transactions on Big Data</span>
-<span style="font-size:16px">- IEEE Transactions on Network and Service Management</span>
-<span style="font-size:16px">- Future Generation Computer Systems</span>
-<span style="font-size:16px">- IEEE International Conference on Peer-to-Peer Computing</span>
-<span style="font-size:16px">- IEEE International Conference on Cloud Computing</span>
+- <span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span>
+- <span style="font-size:16px">IEEE Transactions on Mobile Computing</span>
+- <span style="font-size:16px">IEEE Transactions on Services Computing</span>
+- <span style="font-size:16px">IEEE Transactions on Wireless Communications</span>
+- <span style="font-size:16px">IEEE Transactions on Big Data</span>
+- <span style="font-size:16px">IEEE Transactions on Network and Service Management</span>
+- <span style="font-size:16px">Future Generation Computer Systems</span>
+- <span style="font-size:16px">IEEE International Conference on Peer-to-Peer Computing</span>
+- <span style="font-size:16px">IEEE International Conference on Cloud Computing</span>
 
