@@ -51,7 +51,7 @@ redirect_from:
 
 ## Publications
 
-<div style="text-align: justify;">
+<div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
      <li><span style="font-size:16px"> <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, <strong><em>IEEE Journal on Selected Areas in Communications (JSAC)</em></strong> , 2021, 39(12): 3654-3672. (<span style="color:green"><strong>CCF-A, 中科院一区</strong></span>)[<strong><a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a></strong>]</span></li>
     <li><span style="font-size:16px"><strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, <strong><em>IEEE Transactions on Mobile Computing (TMC)</em></strong>, 2024. (<span style="color:green"><strong>CCF-A</strong></span>)[<strong><a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedUC_A_Unified_Clustering_Approach_for_Hierarchical_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedUC.html" target="_blank">BIB</a></strong>]</span></li>
@@ -75,7 +75,7 @@ redirect_from:
 
 **主持项目**
 
-<div style="text-align: justify; text-indent: -2em;">
+<div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31, 30万元</span></li>
     <li><span style="font-size:16px">江苏省人社厅, 江苏省卓越博士后计划（揭榜领题）, JB23085, 大规模异构网络下的边缘智能关键技术研究, 2022-7-1 至2024-6-30, 30万元</span></li>
@@ -85,7 +85,7 @@ redirect_from:
 
 **参与项目**
 
-<div style="text-align: justify;">
+<div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
