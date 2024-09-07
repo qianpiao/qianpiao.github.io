@@ -51,6 +51,7 @@ redirect_from:
 
 ## Publications
 
+<p style="text-align: justify;">
 - <span style="font-size:16px"> **Qianpiao Ma**, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, _**IEEE Journal on Selected Areas in Communications (JSAC)**_ , 2021, 39(12): 3654-3672. 
 (<span style="color:green">**CCF-A, 中科院一区**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a>**]</span>
 - <span style="font-size:16px"> **Qianpiao Ma**, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang, “FedUC: A Unified Clustering Approach for Hierarchical Federated Learning”, _**IEEE Transactions on Mobile Computing (TMC)**_, 2024. (<span style="color:green">**CCF-A**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedUC_A_Unified_Clustering_Approach_for_Hierarchical_Federated_Learning.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedUC.html" target="_blank">BIB</a>**]</span>
@@ -66,7 +67,7 @@ redirect_from:
 - <span style="font-size:16px"> Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, **Qianpiao Ma**, Jinyang Huang, “FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning”, _**IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS)**_, IEEE, 2023: 964-971. (<span style="color:green">**CCF-C**</span>)[**<a href="https://ieeexplore.ieee.org/abstract/document/10476088" target="_blank">Link</a>**][**<a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Centralized_Decentralized_Architecture_for_Efficient_Federated_Learning.pdf" target="_blank">PDF</a>**][**<a href="https://qianpiao.github.io/cite/FedCD_ICPADS.html" target="_blank">BIB</a>**]</span>
 - <span style="font-size:16px"> 周晓茂, 贾庆民, 胡玉姣, 郭凯, **马千飘**, 刘辉, 谢人超, 自智算力网络: 架构, 技术与展望, _**物联网学报**_, 2023, 7(4): 1-12. [**<a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a>**]</span>
 - <span style="font-size:16px"> Yang Liu, **Qianpiao Ma**. “Service Placement Considering Robustness and Dynamic in Edge Computing”, _**IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)**_. IEEE, 2021: 369-374. [**<a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a>**]</span>
-
+</p>
 
 ## Grants
 
