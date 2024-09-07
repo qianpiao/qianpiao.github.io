@@ -77,8 +77,12 @@ redirect_from:
 
 **参与项目**
 
-- <span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span>
-- <span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span>
+<div style="text-align: justify;">
+  <ul style="list-style-position: inside;">
+    <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span><li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span><li>
+  </ul>
+</div>
 
 ## Services
 
