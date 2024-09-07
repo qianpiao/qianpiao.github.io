@@ -95,7 +95,7 @@ redirect_from:
 
 ## Services
 
-<div style="text-align: justify;">
+<div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Mobile Computing</span></li>
