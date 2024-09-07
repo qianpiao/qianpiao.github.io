@@ -82,13 +82,20 @@ redirect_from:
 
 ## Services
 
-- <span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span>
-- <span style="font-size:16px">IEEE Transactions on Mobile Computing</span>
-- <span style="font-size:16px">IEEE Transactions on Services Computing</span>
-- <span style="font-size:16px">IEEE Transactions on Wireless Communications</span>
-- <span style="font-size:16px">IEEE Transactions on Big Data</span>
-- <span style="font-size:16px">IEEE Transactions on Network and Service Management</span>
-- <span style="font-size:16px">Future Generation Computer Systems</span>
-- <span style="font-size:16px">IEEE International Conference on Peer-to-Peer Computing</span>
-- <span style="font-size:16px">IEEE International Conference on Cloud Computing</span>
+<div style="text-align: justify;">
+  <ul style="list-style-position: inside;">
+    <li><span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span></li>
+    <li><span style="font-size:16px">IEEE Transactions on Mobile Computing</span></li>
+    <li><span style="font-size:16px">IEEE Transactions on Services Computing</span></li>
+    <li><span style="font-size:16px">IEEE Transactions on Wireless Communications</span></li>
+    <li><span style="font-size:16px">IEEE Transactions on Big Data</span></li>
+    <li><span style="font-size:16px">IEEE Transactions on Network and Service Management</span></li>
+    <li><span style="font-size:16px">Future Generation Computer Systems</span></li>
+    <li><span style="font-size:16px">IEEE International Conference on Peer-to-Peer Computing</span></li>
+    <li><span style="font-size:16px">IEEE International Conference on Cloud Computing</span></li>
+  </ul>
+</div>
+
+
+
 
