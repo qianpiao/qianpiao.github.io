@@ -70,7 +70,7 @@ redirect_from:
   </ul>
 </div>
 
-<span style="font-size:16px"><strong>(*  Corresponding author)</strong> </span>
+<span style="font-size:16px"><em>(*  Corresponding author)</em> </span>
 
 ## Grants
 
