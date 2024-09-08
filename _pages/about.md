@@ -51,8 +51,6 @@ redirect_from:
 
 ## Publications
 
-<strong>* Corresponding author</strong> 
-
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
      <li><span style="font-size:16px"> <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, <strong><em>IEEE Journal on Selected Areas in Communications (JSAC)</em></strong> , 2021, 39(12): 3654-3672. (<span style="color:green"><strong>CCF-A, 中科院一区</strong></span>)[<strong><a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a></strong>]</span></li>
@@ -72,6 +70,7 @@ redirect_from:
   </ul>
 </div>
 
+<span style="font-size:16px"><strong>* Corresponding author</strong> </span>
 
 ## Grants
 
