@@ -55,7 +55,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉2024.08</td>
-    <td style="border: none; padding: 8px;">One project is funded by the National Natural Science Foundation of China.</td>
+    <td style="border: none; padding: 8px;">One project is funded by the National Natural Science Foundation of China, Youth Fund.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉2024.05</td>
@@ -156,12 +156,6 @@ redirect_from:
 </div>
 
 
-<div id="clustrmaps-container">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=a"></script>
-</div>
-
-#clustrmaps-container {
-  width: 200px;  /* 调整宽度 */
-  height: 150px; /* 调整高度 */
-}
+<iframe src="https://clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=a"
+        width="100" height="60" frameborder="0"></iframe>
 
