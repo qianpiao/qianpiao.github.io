@@ -156,6 +156,6 @@ redirect_from:
 </div>
 
 
-<iframe src="https://clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=a"
-        width="100" height="60" frameborder="0"></iframe>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=c"></script>
+
 
