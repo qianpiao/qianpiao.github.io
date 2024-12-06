@@ -50,43 +50,43 @@ redirect_from:
 
 <table style="border-collapse: collapse; width: 100%; border: none; font-size: 16px;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.12</td>
+    <td style="border: none; padding: 8px;">🎉2024.12</td>
     <td style="border: none; padding: 8px;">One paper "COACH" has been accepted by INFOCOM 2025.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.08</td>
+    <td style="border: none; padding: 8px;">🎉2024.08</td>
     <td style="border: none; padding: 8px;">One project is funded by the National Natural Science Foundation of China.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.05</td>
+    <td style="border: none; padding: 8px;">🎉2024.05</td>
     <td style="border: none; padding: 8px;">One paper "SC-ADFL" has been accepted by WASA 2024.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.04</td>
+    <td style="border: none; padding: 8px;">🎉2024.04</td>
     <td style="border: none; padding: 8px;">One paper "FedACS" has been accepted by IEEE/ACM IWQoS.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.02</td>
+    <td style="border: none; padding: 8px;">🎉2024.02</td>
     <td style="border: none; padding: 8px;">One paper "FedUC" has been accepted by IEEE TMC.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.02</td>
+    <td style="border: none; padding: 8px;">🎉2024.02</td>
     <td style="border: none; padding: 8px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2023.11</td>
+    <td style="border: none; padding: 8px;">🎉2023.11</td>
     <td style="border: none; padding: 8px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2023.11</td>
+    <td style="border: none; padding: 8px;">🎉2023.11</td>
     <td style="border: none; padding: 8px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2023.10</td>
+    <td style="border: none; padding: 8px;">🎉2023.10</td>
     <td style="border: none; padding: 8px;">One paper "FRACTAL" has been accepted by IEEE TBD.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2023.10</td>
+    <td style="border: none; padding: 8px;">🎉2023.10</td>
     <td style="border: none; padding: 8px;">One paper "YOGA" has been accepted by IEEE/ACM TNET.</td>
   </tr>
 </table>
