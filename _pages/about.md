@@ -50,9 +50,15 @@ redirect_from:
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
+    <li><span style="font-size:16px">2024.12  One paper "COACH" has been accepted by INFOCOM 2025.</span></li>
+    <li><span style="font-size:16px">2024.08  One project is funded by the National Natural Science Foundation of China
     <li><span style="font-size:16px">2024.05  One paper "SC-ADFL" has been accepted by WASA 2024.</span></li>
+    <li><span style="font-size:16px">2024.04  One paper "FedACS" has been accepted by IEEE/ACM IWQoS.</span></li>
     <li><span style="font-size:16px">2024.02  One paper "FedUC" has been accepted by IEEE TMC.</span></li>
+    <li><span style="font-size:16px">2024.02  One paper "FedCD" has been accepted by IEEE IoTJ.
     <li><span style="font-size:16px">2023.11  One paper "FDTO" has been accepted by IEEE TVT.</span></li>
+    <li><span style="font-size:16px">2023.11  One paper "FedGA" has been accepted by Journal on Communications.</span></li>
+    <li><span style="font-size:16px">2023.10  One paper "FRACTAL" has been accepted by IEEE TBD.</span></li>
   </ul>
 </div>
 
