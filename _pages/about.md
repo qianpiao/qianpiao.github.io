@@ -48,6 +48,21 @@ redirect_from:
 
 ## News
 
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2024.12</td>
+    <td style="border: none; padding: 8px;">One paper "COACH" has been accepted by INFOCOM 2025.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2024.08</td>
+    <td style="border: none; padding: 8px;">One project is funded by the National Natural Science Foundation of China.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">2024.05</td>
+    <td style="border: none; padding: 8px;">One paper "SC-ADFL" has been accepted by WASA 2024.</td>
+  </tr>
+</table>
+
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">2024.12  One paper "COACH" has been accepted by INFOCOM 2025.</span></li>
@@ -59,7 +74,7 @@ redirect_from:
     <li><span style="font-size:16px">2023.11  One paper "FDTO" has been accepted by IEEE TVT.</span></li>
     <li><span style="font-size:16px">2023.11  One paper "FedGA" has been accepted by Journal on Communications.</span></li>
     <li><span style="font-size:16px">2023.10  One paper "FRACTAL" has been accepted by IEEE TBD.</span></li>
-    <li><span style="font-size:16px">2023.10  One paper (YOGA) has been accepted by IEEE/ACM TNET.</span></li>
+    <li><span style="font-size:16px">2023.10  One paper "YOGA" has been accepted by IEEE/ACM TNET.</span></li>
   </ul>
 </div>
 
