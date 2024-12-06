@@ -15,7 +15,7 @@ redirect_from:
 </p>
 
  
-## <a id="experience"></a>🎓 Experience
+## 🎓 Experience {#experience}
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
