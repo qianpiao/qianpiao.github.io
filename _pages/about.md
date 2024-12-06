@@ -8,7 +8,7 @@ redirect_from:
 ---
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-## About
+## 📜 About {#about}
 
 <p style="text-align: justify;">
 <span style="font-size:16px">I am an Associate Professor at the School of Computer Science and Engineering, <a href="https://www.njust.edu.cn/" target="_blank">Nanjing University of Science and Technology (NJUST)</a>, affiliated with Prof. <a href="https://www.junlongzhou.team/" target="_blank">Junlong Zhou</a>'s research team. I received my Ph.D. at the School of Computer Science and Technology, <a href="https://www.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a> in June 2022, supervised by Prof. <a href="http://cs.ustc.edu.cn/2020/0828/c23235a460083/page.htm" target="_blank">Hongli Xu</a> and Prof. <a href="https://cs.ustc.edu.cn/2020/0828/c23235a460081/page.htm" target="_blank">Liusheng Huang</a>. Prior to that, I received my B.S. degree from USTC in 2014. From July 2022 to July 2024, I served as a post-doctoral researcher at <a href="https://www.pmlabs.com.cn/" target="_blank">Purple Mountain Laboratories</a>. I have published more than ten papers in top journals and conferences, including IEEE JSAC, IEEE TMC, IEEE INFOCOM, IEEE/ACM ToN. My research interests include <strong>edge intelligence</strong>, <strong>federated learning</strong>, and <strong>distributed machine learning</strong>.</span>
@@ -45,8 +45,7 @@ redirect_from:
   </tr>
 </table>
 
-
-## News
+## 📰 News {#news}
 
 <table style="border-collapse: collapse; width: 100%; border: none; font-size: 16px;">
   <tr style="border: none;">
@@ -92,7 +91,7 @@ redirect_from:
 </table>
 
 
-## Publications
+## 📚 Publications {#publications}
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
@@ -116,8 +115,7 @@ redirect_from:
 
 <span style="font-size:16px"><em>(*  Corresponding author)</em> </span>
 
-
-## Grants
+## 🏆 Grants {#grants}
 
 **主持项目**
 
@@ -138,8 +136,7 @@ redirect_from:
   </ul>
 </div>
 
-
-## Services
+## 💼 Services {#services}
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
