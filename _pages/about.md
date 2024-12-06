@@ -86,7 +86,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper "YOGA" has been accepted by IEEE/ACM TNET.</td>
+    <td style="border: none; padding: 8px;">One paper "YOGA" has been accepted by IEEE/ACM TON.</td>
   </tr>
 </table>
 
