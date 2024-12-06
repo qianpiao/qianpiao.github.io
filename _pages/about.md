@@ -54,7 +54,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
-    <td style="border: none; padding: 8px;">One project is funded by the National Natural Science Foundation of China, Youth Fund.</td>
+    <td style="border: none; padding: 8px;">One National Natural Science Foundation of China Youth Project is granted.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
