@@ -75,11 +75,11 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉2023.11</td>
-    <td style="border: none; padding: 8px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
+    <td style="border: none; padding: 8px;">One paper "FDTO" has been accepted by IEEE TVT.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉2023.11</td>
-    <td style="border: none; padding: 8px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
+    <td style="border: none; padding: 8px;">One paper "FedGA" has been accepted by Journal on Communications.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉2023.10</td>
@@ -156,6 +156,12 @@ redirect_from:
 </div>
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=b"></script>
+<div id="clustrmaps-container">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=a"></script>
+</div>
 
+#clustrmaps-container {
+  width: 200px;  /* 调整宽度 */
+  height: 150px; /* 调整高度 */
+}
 
