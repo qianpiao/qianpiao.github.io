@@ -50,33 +50,46 @@ redirect_from:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.12</td>
-    <td style="border: none; padding: 8px;">One paper "COACH" has been accepted by INFOCOM 2025.</td>
+    <td style="border: none; padding: 16px;">2024.12</td>
+    <td style="border: none; padding: 16px;">One paper "COACH" has been accepted by INFOCOM 2025.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.08</td>
-    <td style="border: none; padding: 8px;">One project is funded by the National Natural Science Foundation of China.</td>
+    <td style="border: none; padding: 16px;">2024.08</td>
+    <td style="border: none; padding: 16px;">One project is funded by the National Natural Science Foundation of China.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.05</td>
-    <td style="border: none; padding: 8px;">One paper "SC-ADFL" has been accepted by WASA 2024.</td>
+    <td style="border: none; padding: 16px;">2024.05</td>
+    <td style="border: none; padding: 16px;">One paper "SC-ADFL" has been accepted by WASA 2024.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 16px;">2024.04</td>
+    <td style="border: none; padding: 16px;">One paper "FedACS" has been accepted by IEEE/ACM IWQoS.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 16px;">2024.02</td>
+    <td style="border: none; padding: 16px;">One paper "FedUC" has been accepted by IEEE TMC.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 16px;">2024.02</td>
+    <td style="border: none; padding: 16px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 16px;">2023.11</td>
+    <td style="border: none; padding: 16px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 16px;">2023.11</td>
+    <td style="border: none; padding: 16px;">One paper "FedCD" has been accepted by IEEE IoTJ.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 16px;">2023.10</td>
+    <td style="border: none; padding: 16px;">One paper "FRACTAL" has been accepted by IEEE TBD.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 16px;">2023.10</td>
+    <td style="border: none; padding: 16px;">One paper "YOGA" has been accepted by IEEE/ACM TNET.</td>
   </tr>
 </table>
-
-<div style="text-align: justify; text-indent: -1.5em;">
-  <ul style="list-style-position: inside;">
-    <li><span style="font-size:16px">2024.12  One paper "COACH" has been accepted by INFOCOM 2025.</span></li>
-    <li><span style="font-size:16px">2024.08  One project is funded by the National Natural Science Foundation of China.</span></li>
-    <li><span style="font-size:16px">2024.05  One paper "SC-ADFL" has been accepted by WASA 2024.</span></li>
-    <li><span style="font-size:16px">2024.04  One paper "FedACS" has been accepted by IEEE/ACM IWQoS.</span></li>
-    <li><span style="font-size:16px">2024.02  One paper "FedUC" has been accepted by IEEE TMC.</span></li>
-    <li><span style="font-size:16px">2024.02  One paper "FedCD" has been accepted by IEEE IoTJ.</span></li>
-    <li><span style="font-size:16px">2023.11  One paper "FDTO" has been accepted by IEEE TVT.</span></li>
-    <li><span style="font-size:16px">2023.11  One paper "FedGA" has been accepted by Journal on Communications.</span></li>
-    <li><span style="font-size:16px">2023.10  One paper "FRACTAL" has been accepted by IEEE TBD.</span></li>
-    <li><span style="font-size:16px">2023.10  One paper "YOGA" has been accepted by IEEE/ACM TNET.</span></li>
-  </ul>
-</div>
 
 
 ## Publications
