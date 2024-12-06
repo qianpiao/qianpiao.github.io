@@ -2,6 +2,9 @@
 main:
   - title: "Experience"
     url: https://qianpiao.github.io/#experience  
+
+  - title: "News"
+    url: https://qianpiao.github.io/#news
  
   - title: "Publications"
     url: https://qianpiao.github.io/#publications   
