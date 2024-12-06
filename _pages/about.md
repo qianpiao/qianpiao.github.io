@@ -46,8 +46,15 @@ redirect_from:
 </table>
 
 
+## News
 
-
+<div style="text-align: justify; text-indent: -1.5em;">
+  <ul style="list-style-position: inside;">
+    <li><span style="font-size:16px">2024.05  One paper "SC-ADFL" has been accepted by WASA 2024.</span></li>
+    <li><span style="font-size:16px">2024.02  One paper "FedUC" has been accepted by IEEE TMC.</span></li>
+    <li><span style="font-size:16px">2023.11  One paper "FDTO" has been accepted by IEEE TVT.</span></li>
+  </ul>
+</div>
 
 ## Publications
 
