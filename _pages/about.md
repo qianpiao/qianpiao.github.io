@@ -47,7 +47,7 @@ redirect_from:
 
 ## 📰 News {#news}
 
-<table style="border-collapse: collapse; width: 100%; border: none; font-size: 12px;">
+<table style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">One paper "COACH" about end-cloud collaborative inference accepted by INFOCOM 2025.</td>
@@ -66,7 +66,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper "FedUC" about unified clustering approach for hierarchical federated learning accepted by IEEE TMC.</td>
+    <td style="border: none; padding: 8px;">One paper "FedUC" about unified clustering for hierarchical federated learning accepted by IEEE TMC.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
@@ -82,11 +82,11 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper "FRACTAL" about multi-tier topology construction for decentralized federated learning accepted by IEEE TBD.</td>
+    <td style="border: none; padding: 8px;">One paper "FRACTAL" about topology construction for decentralized federated learning accepted by IEEE TBD.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper "YOGA" about layer-wise model aggregation for decentralized federated learning accepted by IEEE/ACM TON.</td>
+    <td style="border: none; padding: 8px;">One paper "YOGA" about model aggregation for decentralized federated learning accepted by IEEE/ACM TON.</td>
   </tr>
 </table>
 
