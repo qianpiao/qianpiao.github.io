@@ -47,7 +47,7 @@ redirect_from:
 
 ## 📰 News {#news}
 
-<table style="border-collapse: collapse; width: 100%; border: none; font-size: 16px;">
+<table style="border-collapse: collapse; width: 100%; border: none; font-size: 12px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">One paper "COACH" about end-cloud collaborative inference accepted by INFOCOM 2025.</td>
