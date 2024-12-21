@@ -50,47 +50,47 @@ redirect_from:
 <table style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">One paper "Air-FedGA" about federated learning via over-the-air computation accepted by IPDPS 2025.</td>
+    <td style="border: none; padding: 8px;">One paper "Air-FedGA" about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">One paper "COACH" about end-cloud collaborative inference accepted by INFOCOM 2025.</td>
+    <td style="border: none; padding: 8px;">One paper "COACH" about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
-    <td style="border: none; padding: 8px;">One National Natural Science Foundation of China Youth Project is granted.</td>
+    <td style="border: none; padding: 8px;">One <strong>National Natural Science Foundation of China Youth Project</strong> is granted.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
-    <td style="border: none; padding: 8px;">One paper "SC-ADFL" about asynchronous decentralized federated learning accepted by WASA 2024.</td>
+    <td style="border: none; padding: 8px;">One paper "SC-ADFL" about asynchronous decentralized federated learning accepted by <strong>WASA 2024</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.04</td>
-    <td style="border: none; padding: 8px;">One paper "FedACS" about client selection in federated learning accepted by IEEE/ACM IWQoS.</td>
+    <td style="border: none; padding: 8px;">One paper "FedACS" about client selection in federated learning accepted by <strong>IEEE/ACM IWQoS</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper "FedUC" about unified clustering for hierarchical federated learning accepted by IEEE TMC.</td>
+    <td style="border: none; padding: 8px;">One paper "FedUC" about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper "FedCD" about hybrid federated learning framework accepted by IEEE IoTJ.</td>
+    <td style="border: none; padding: 8px;">One paper "FedCD" about hybrid federated learning framework accepted by <strong>IEEE IoTJ</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
-    <td style="border: none; padding: 8px;">One paper "FDTO" about fully distributed task offloading in VEC accepted by IEEE TVT.</td>
+    <td style="border: none; padding: 8px;">One paper "FDTO" about fully distributed task offloading in VEC accepted by <strong>IEEE TVT</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
-    <td style="border: none; padding: 8px;">One paper "FedGA" about group asynchronous federated learning accepted by Journal on Communications.</td>
+    <td style="border: none; padding: 8px;">One paper "FedGA" about group asynchronous federated learning accepted by <strong>Journal on Communications</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper "FRACTAL" about topology construction for decentralized federated learning accepted by IEEE TBD.</td>
+    <td style="border: none; padding: 8px;">One paper "FRACTAL" about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper "YOGA" about model aggregation for decentralized federated learning accepted by IEEE/ACM TON.</td>
+    <td style="border: none; padding: 8px;">One paper "YOGA" about model aggregation for decentralized federated learning accepted by <strong>IEEE/ACM TON</strong>.</td>
   </tr>
 </table>
 
