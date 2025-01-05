@@ -54,7 +54,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">One paper "COACH" about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper "COACH" about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
@@ -66,7 +66,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.04</td>
-    <td style="border: none; padding: 8px;">One paper "FedACS" about client selection in federated learning accepted by <strong>IEEE/ACM IWQoS</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper "FedACS" about client selection in federated learning accepted by <strong>IEEE/ACM IWQoS</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
@@ -90,7 +90,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper "YOGA" about model aggregation for decentralized federated learning accepted by <strong>IEEE/ACM TON</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper "YOGA" about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
   </tr>
 </table>
 
