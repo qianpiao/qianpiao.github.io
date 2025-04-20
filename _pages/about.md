@@ -70,23 +70,23 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank" style="text-decoration: none; color: black;">FedUC</a></strong> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank" style="text-decoration: none; color: black;">FedUC</a> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10443215" target="_blank" style="text-decoration: none; color: #0000EE;">FedCD</a></strong> about hybrid federated learning framework accepted by <strong>IEEE IoTJ</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/10443215" target="_blank" style="text-decoration: none; color: #0000EE;">FedCD</a> about hybrid federated learning framework accepted by <strong>IEEE IoTJ</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank" style="text-decoration: none; color: #551A8B;">FDTO</a></strong> about fully distributed task offloading in VEC accepted by <strong>IEEE TVT</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank" style="text-decoration: none; color: #551A8B;">FDTO</a> about fully distributed task offloading in VEC accepted by <strong>IEEE TVT</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
-    <td style="border: none; padding: 8px;">One paper "FedGA" about group asynchronous federated learning accepted by <strong>Journal on Communications</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank">FedGA</a> about group asynchronous federated learning accepted by <strong>Journal on Communications</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank" style="text-decoration: none; color: #6495ED;">FRACTAL</a></strong> about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank" style="text-decoration: none; color: #6495ED;">FRACTAL</a> about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
