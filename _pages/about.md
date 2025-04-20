@@ -50,11 +50,11 @@ redirect_from:
 <table style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">One paper "Air-FedGA" about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong>Air-FedGA</strong>strong> about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">My co-author's paper "COACH" about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper <strong>COACH</strong>strong> about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
@@ -92,6 +92,7 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/abstract/document/10309973" target="_blank" style="text-decoration: none">YOGA</a> about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
   </tr>
+  ...
 </table>
 
 
