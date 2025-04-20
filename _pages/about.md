@@ -70,7 +70,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank">FedUC</a></strong> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank" style="text-decoration: none; color: inherit;">FedUC</a></strong> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
