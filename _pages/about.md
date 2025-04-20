@@ -78,7 +78,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank" style="text-decoration: none; color: #0000EE;">FDTO</a></strong> about fully distributed task offloading in VEC accepted by <strong>IEEE TVT</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank" style="text-decoration: none; color: #551A8B;">FDTO</a></strong> about fully distributed task offloading in VEC accepted by <strong>IEEE TVT</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
@@ -86,7 +86,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank" style="text-decoration: none; color: lightblue;">FRACTAL</a></strong> about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank" style="text-decoration: none; color: #6495ED;">FRACTAL</a></strong> about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
