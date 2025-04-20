@@ -62,7 +62,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://link.springer.com/chapter/10.1007/978-3-031-71467-2_9" target="_blank" style="text-decoration: none">SC-ADFL</a></strong> about asynchronous decentralized federated learning accepted by <strong>WASA 2024</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-71467-2_9" target="_blank" style="text-decoration: none">SC-ADFL</a> about asynchronous decentralized federated learning accepted by <strong>WASA 2024</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.04</td>
