@@ -82,7 +82,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
-    <td style="border: none; padding: 8px;">One paper <a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank">FedGA</a> about group asynchronous federated learning accepted by <strong>Journal on Communications</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank" style="text-decoration: none">FedGA</a> about group asynchronous federated learning accepted by <strong>Journal on Communications</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
@@ -90,7 +90,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">My co-author's paper "YOGA" about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/abstract/document/10309973" target="_blank">YOGA</a></strong> about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
   </tr>
 </table>
 
