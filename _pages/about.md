@@ -70,7 +70,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank" style="text-decoration: none; color: blue;">FedUC</a></strong> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank" style="text-decoration: none; color: lightblue;">FedUC</a></strong> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
@@ -86,7 +86,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">One paper "FRACTAL" about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank" style="text-decoration: none; color: lightblue;">FRACTAL</a></strong> about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
