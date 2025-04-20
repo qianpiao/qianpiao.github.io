@@ -74,11 +74,11 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10443215" target="_blank" style="text-decoration: none; color: lightblue;">FedCD</a></strong> about hybrid federated learning framework accepted by <strong>IEEE IoTJ</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10443215" target="_blank" style="text-decoration: none; color: #0000EE;">FedCD</a></strong> about hybrid federated learning framework accepted by <strong>IEEE IoTJ</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
-    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank" style="text-decoration: none; color: lightblue;">FDTO</a></strong> about fully distributed task offloading in VEC accepted by <strong>IEEE TVT</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank" style="text-decoration: none; color: #0000EE;">FDTO</a></strong> about fully distributed task offloading in VEC accepted by <strong>IEEE TVT</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
