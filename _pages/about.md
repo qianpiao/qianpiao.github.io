@@ -100,6 +100,10 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2023.05</td>
     <td style="border: none; padding: 8px;">I have been granted the <strong>Jiangsu Province Excellent Postdoctoral Program</strong>.</td>
   </tr>
+  <tr class="extra-news" style="display: none; border: none;">
+    <td style="border: none; padding: 8px;">🎉 2021.09</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank" style="text-decoration: none">FedSA</a> about semi-asynchronous federated learning accepted by <strong>IEEE JSAC</strong>.</td>
+  </tr>
 </table>
 
 <div style="text-align: center; margin-top: 8px;">
