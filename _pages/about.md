@@ -115,13 +115,14 @@ redirect_from:
 </table>
 
 <div style="text-align: center; margin-top: 8px;">
-  <a href="#" id="toggle-news" style="font-size: 12px; color: #0066cc; text-decoration: underline; cursor: pointer;">
-    Show more... <span style="display: inline-block;">▼</span>
+  <a href="#" id="toggle-news" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">
+    Show more... <span id="arrow" style="display: inline-block; transition: transform 0.2s;">></span>
   </a>
 </div>
 
 <script>
   const toggleLink = document.getElementById('toggle-news');
+  const arrow = document.getElementById('arrow');
   const extraNews = document.querySelectorAll('.extra-news');
   let isExpanded = false;
   
@@ -134,9 +135,11 @@ redirect_from:
     });
     
     if (isExpanded) {
-      toggleLink.innerHTML = '<span style="display: inline-block;">▲</span>';
+      arrow.style.transform = 'rotate(180deg)';
+      toggleLink.firstChild.textContent = 'Hide';
     } else {
-      toggleLink.innerHTML = 'Show more... <span style="display: inline-block;">▼</span>';
+      toggleLink.firstChild.textContent = 'Show more...';
+      arrow.style.transform = 'rotate(0deg)';
     }
   });
 </script>
