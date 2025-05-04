@@ -115,7 +115,9 @@ redirect_from:
 </table>
 
 <div style="text-align: center; margin-top: 8px;">
-  <a href="#" id="toggle-news" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">Show more...</a>
+  <a href="#" id="toggle-news" style="font-size: 12px; color: #0066cc; text-decoration: underline; cursor: pointer;">
+    Show more... <span style="display: inline-block;">▼</span>
+  </a>
 </div>
 
 <script>
@@ -131,9 +133,14 @@ redirect_from:
       item.style.display = isExpanded ? 'table-row' : 'none';
     });
     
-    toggleLink.textContent = isExpanded ? 'Hide...' : 'Show more...';
+    if (isExpanded) {
+      toggleLink.innerHTML = '<span style="display: inline-block;">▲</span>';
+    } else {
+      toggleLink.innerHTML = 'Show more... <span style="display: inline-block;">▼</span>';
+    }
   });
 </script>
+
 
 
 ## 📚 Publications {#publications}
