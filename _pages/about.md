@@ -98,21 +98,24 @@ redirect_from:
   </tr>
 </table>
 
-<button id="toggle-news" style="margin-top: 10px; padding: 8px 16px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Show more</button>
+<div style="text-align: center; margin-top: 8px;">
+  <a href="#" id="toggle-news" style="font-size: 12px; color: #0066cc; text-decoration: underline; cursor: pointer;">show more</a>
+</div>
 
 <script>
-  const toggleButton = document.getElementById('toggle-news');
+  const toggleLink = document.getElementById('toggle-news');
   const extraNews = document.querySelectorAll('.extra-news');
   let isExpanded = false;
   
-  toggleButton.addEventListener('click', function() {
+  toggleLink.addEventListener('click', function(e) {
+    e.preventDefault();
     isExpanded = !isExpanded;
     
     extraNews.forEach(item => {
       item.style.display = isExpanded ? 'table-row' : 'none';
     });
     
-    toggleButton.textContent = isExpanded ? 'Show less' : 'Show more';
+    toggleLink.textContent = isExpanded ? 'show less' : 'show more';
   });
 </script>
 
