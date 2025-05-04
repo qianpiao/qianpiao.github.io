@@ -99,7 +99,7 @@ redirect_from:
 </table>
 
 <div style="text-align: center; margin-top: 8px;">
-  <a href="#" id="toggle-news" style="font-size: 12px; color: #0066cc; text-decoration: underline; cursor: pointer;">show more</a>
+  <a href="#" id="toggle-news" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">show more</a>
 </div>
 
 <script>
