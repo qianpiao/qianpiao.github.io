@@ -47,7 +47,7 @@ redirect_from:
 
 ## 📰 News {#news}
 
-<table style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
+<table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.04</td>
     <td style="border: none; padding: 8px;">My co-author's paper <strong>FedACS</strong> about federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
@@ -88,16 +88,34 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2023.11</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank" style="text-decoration: none">FedGA</a> about group asynchronous federated learning accepted by <strong>Journal on Communications</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank" style="text-decoration: none">FRACTAL</a> about topology construction for decentralized federated learning accepted by <strong>IEEE TBD</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/abstract/document/10309973" target="_blank" style="text-decoration: none">YOGA</a> about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
   </tr>
 </table>
-...
+
+<button id="toggle-news" style="margin-top: 10px; padding: 8px 16px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: pointer;">Show more</button>
+
+<script>
+  const toggleButton = document.getElementById('toggle-news');
+  const extraNews = document.querySelectorAll('.extra-news');
+  let isExpanded = false;
+  
+  toggleButton.addEventListener('click', function() {
+    isExpanded = !isExpanded;
+    
+    extraNews.forEach(item => {
+      item.style.display = isExpanded ? 'table-row' : 'none';
+    });
+    
+    toggleButton.textContent = isExpanded ? 'Show less' : 'Show more';
+  });
+</script>
+
 
 ## 📚 Publications {#publications}
 
