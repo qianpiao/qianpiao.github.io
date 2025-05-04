@@ -112,6 +112,10 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2021.09</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank" style="text-decoration: none">FedSA</a> about semi-asynchronous federated learning accepted by <strong>IEEE JSAC</strong>.</td>
   </tr>
+  <tr class="extra-news" style="display: none; border: none;">
+    <td style="border: none; padding: 8px;">🎉 2019.04</td>
+    <td style="border: none; padding: 8px;">Oral presentation for <a href="https://ieeexplore.ieee.org/abstract/document/8737516" target="_blank" style="text-decoration: none">NSPA</a> about collaborative traffic measurement in SDN at <strong>INFOCOM 2019</strong>.</td>
+  </tr>
 </table>
 
 <div style="text-align: center; margin-top: 8px;">
