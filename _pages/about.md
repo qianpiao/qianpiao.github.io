@@ -62,7 +62,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
-    <td style="border: none; padding: 8px;">One <strong>National Natural Science Foundation of China Youth Project</strong> is granted.</td>
+    <td style="border: none; padding: 8px;">I have been granted the <strong>National Natural Science Foundation of China Youth Project</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
@@ -95,6 +95,10 @@ redirect_from:
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/abstract/document/10309973" target="_blank" style="text-decoration: none">YOGA</a> about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
+  </tr>
+  <tr class="extra-news" style="display: none; border: none;">
+    <td style="border: none; padding: 8px;">🎉 2023.05</td>
+    <td style="border: none; padding: 8px;">I have been granted the <strong>Jiangsu Province Excellent Postdoctoral Program</strong>.</td>
   </tr>
 </table>
 
