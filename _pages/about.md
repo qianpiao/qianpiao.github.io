@@ -211,6 +211,7 @@ redirect_from:
     <li><span style="font-size:16px">Future Generation Computer Systems</span></li>
     <li><span style="font-size:16px">IEEE International Conference on Peer-to-Peer Computing</span></li>
     <li><span style="font-size:16px">IEEE International Conference on Cloud Computing</span></li>
+    <li><span style="font-size:16px">Scientific Reports</span></li>
   </ul>
 </div>
 
