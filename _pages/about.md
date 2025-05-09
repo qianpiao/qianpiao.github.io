@@ -49,7 +49,7 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2024.12</td>
+    <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">My co-author's paper <strong>FedAlt</strong> about knowledge distillation in federated learning accepted by <strong>Journal of Software</strong>.</td>
   </tr>
   <tr style="border: none;">
