@@ -164,6 +164,7 @@ redirect_from:
 
 ## 📚 Publications {#publications}
 
+<!--
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
      <li><span style="font-size:16px"> <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang, “FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing”, <strong><em>IEEE Journal on Selected Areas in Communications (JSAC)</em></strong> , 2021, 39(12): 3654-3672. (<span style="color:green"><strong>CCF-A, 中科院一区</strong></span>)[<strong><a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a></strong>]</span></li>
@@ -187,7 +188,7 @@ redirect_from:
     <li><span style="font-size:16px">周晓茂, 贾庆民, 胡玉姣, 郭凯, <strong>马千飘</strong>, 刘辉, 谢人超, 自智算力网络: 架构, 技术与展望, <strong><em>物联网学报</em></strong>, 2023, 7(4): 1-12. [<strong><a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a></strong>]</span></li>
     <li><span style="font-size:16px">Yang Liu, <strong>Qianpiao Ma</strong>. “Service Placement Considering Robustness and Dynamic in Edge Computing”, <strong><em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)</em></strong>, IEEE, 2021: 369-374. [<strong><a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a></strong>]</span></li>
   </ul>
-</div>
+</div>-->
 
 <span style="font-size:16px"><em>(*  Corresponding author)</em> </span>
 
