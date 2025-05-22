@@ -264,7 +264,7 @@ redirect_from:
 <div class="entry">
 - <strong>Dynamic Staleness Control for Asynchronous Federated Learning in Decentralized Topology</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-3-031-71467-2_9" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_Staleness_Control_for_Asynchronous_Federated_Learning_in_Decentralized_Topology.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/SC_ADFL.html" target="_blank">BIB</a></strong>]<br>
   <strong>Qianpiao Ma</strong>, Jianchun Liu, Qingmin Jia, Xiaomao Zhou, Yujiao Hu, Renchao Xie<br>
-  <em>The 18th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA), 2024</em>
+  <em>The 18th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA), Springer, 2024: 99-117</em>
 </div>
 
 <div class="entry">
@@ -325,7 +325,7 @@ redirect_from:
 <div class="entry">
 - <strong>Lightweight flow distribution for collaborative traffic measurement in software defined networks</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/8737516" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Lightweight_Flow_Distribution_for_Collaborative_Traffic_Measurement_in_Software_Defined_Networks.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Lightweight.html" target="_blank">BIB</a></strong>]<br>
   Hongli Xu, Shigang Chen, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-  <em>IEEE Conference on Computer Communications (INFOCOM)</em></strong>, IEEE, 2019: 1108-1116</em>
+  <em>IEEE Conference on Computer Communications (INFOCOM)</em>, IEEE, 2019: 1108-1116</em>
 </div>
 
 <div class="entry">
