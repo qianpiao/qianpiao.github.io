@@ -50,6 +50,10 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
+    <td style="border: none; padding: 8px;">I have been granted the <strong>Fundamental Research Funds for the Central Universities</strong>.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">One paper <strong>DTORA</strong> about task offloading in MEC accepted by <strong>JSA</strong>.</td>
   </tr>
   <tr style="border: none;">
@@ -193,6 +197,7 @@ redirect_from:
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
+    <li><span style="font-size:16px">中央高校基本科研业务费, 基础研究专项, 面向端侧设备的联邦微调关键技术研究, 2025-06-01 至 2027-06-30, 10万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31, 30万元</span></li>
     <li><span style="font-size:16px">江苏省人社厅, 江苏省卓越博士后计划（揭榜领题）, JB23085, 大规模异构网络下的边缘智能关键技术研究, 2023-5-1 至2025-4-30, 30万元</span></li>
   </ul>
@@ -203,8 +208,8 @@ redirect_from:
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
-    <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
+    <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
   </ul>
 </div>
 
