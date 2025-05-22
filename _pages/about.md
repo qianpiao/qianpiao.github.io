@@ -205,9 +205,9 @@ redirect_from:
 .ccf-badge {
   background-color: #4CAF50;   /* 绿色背景 */
   color: white;                /* 白色文字 */
-  padding: 2px 8px;            /* 内边距，适配更大字体 */
+  padding: 1px 8px;            /* 内边距，适配更大字体 */
   border-radius: 6px;          /* 圆角 */
-  font-size: 14px;             /* 字体大小 */
+  font-size: 15px;             /* 字体大小 */
   font-weight: bold;           /* 加粗 */
   margin-left: 8px;            /* 与前面内容间隔 */
 }
@@ -217,9 +217,9 @@ redirect_from:
 .cas-badge {
   background-color: #FF9800;   /* 橙色背景 */
   color: white;                /* 白色文字 */
-  padding: 2px 8px;            /* 内边距 */
+  padding: 1px 8px;            /* 内边距 */
   border-radius: 6px;          /* 圆角 */
-  font-size: 14px;             /* 字体大小 */
+  font-size: 15px;             /* 字体大小 */
   font-weight: bold;           /* 加粗 */
   margin-left: 8px;            /* 与前文字间隔 */
 }
