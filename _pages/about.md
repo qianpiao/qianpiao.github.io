@@ -208,6 +208,27 @@ redirect_from:
   <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025</em>
 </div>
 
+### 2023
+
+<div class="entry">
+- <strong>异构边缘计算环境下异步联邦学习的节点分组与分时调度策略</strong> [<strong><a href="https://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2023196" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/异构边缘计算环境下异步联邦学习的节点分组与分时调度策略.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedGA.html" target="_blank">BIB</a></strong>]<br>
+  <strong>马千飘</strong>, 贾庆民, 刘建春, 徐宏力, 谢人超, 黄韬<br>
+  <em>通信学报, 2023, 44(11): 79-93</em>
+</div>
+
+<div class="entry">
+- <strong>FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10476088" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Centralized_Decentralized_Architecture_for_Efficient_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD_ICPADS.html" target="_blank">BIB</a></strong>]<br>
+  Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, <strong>Qianpiao Ma</strong>, Jinyang Huang<br>
+  <em>物联网学报, 2023, 7(4): 1-12</em>
+</div>
+
+<div class="entry">
+- <strong>自智算力网络: 架构, 技术与展望</strong> [<strong><a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a></strong>]<br>
+  周晓茂, 贾庆民, 胡玉姣, 郭凯, <strong>马千飘</strong>, 刘辉, 谢人超<br>
+  <em>物联网学报, 2023, 7(4): 1-12</em>
+</div>
+
+
 ### Before 2022
 
 <div class="entry">
