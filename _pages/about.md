@@ -252,7 +252,7 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>基于块级多输出和知识自蒸馏的高效联邦学习框架</strong> <br>
+- <strong>基于块级多输出和知识自蒸馏的高效联邦学习框架</strong> [<strong><a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank">Link</a></strong>]<br>
   刘建春,梁文艺,徐宏力,<strong>马千飘</strong>,黄刘生<br>
   <em>软件学报, 2025</em><span class="ccf-badge">CCF-T1</span>
 </div>
