@@ -193,11 +193,12 @@ redirect_from:
 
 ### 2025
 
-<div style="font-size: 16px;">
-- <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong> 
-  <strong>Qianpiao Ma</strong> , Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia
+<p style="font-size:16px;">
+- <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong><br>
+  <strong>Qianpiao Ma</strong> , Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia<br>
   <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025</em>
-</div>
+</p>
+
 
 ### Before 2022
 
