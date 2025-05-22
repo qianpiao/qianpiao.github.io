@@ -305,7 +305,7 @@ redirect_from:
 <div class="entry">
 - <strong>FedCD: A Hybrid Centralized-Decentralized Architecture for Efficient Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10476088" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Centralized_Decentralized_Architecture_for_Efficient_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD_ICPADS.html" target="_blank">BIB</a></strong>]<br>
   Pengcheng Qu, Jianchun Liu, Zhiyuan Wang, <strong>Qianpiao Ma</strong>, Jinyang Huang<br>
-  <em>物联网学报, 2023, 7(4): 1-12</em>
+  <em>IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), IEEE, 2023: 964-971</em>
 </div>
 
 <div class="entry">
