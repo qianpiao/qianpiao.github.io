@@ -218,7 +218,7 @@ redirect_from:
 
 <div class="entry">
 - <strong>FedACS: An Adaptive Client Selection Framework for Communication-Efficient Federated Graph Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10972362" target="_blank">Link</a></strong>]<br>
-  <strong>Hongli Xu, xianjun Gao, Jianchun Liu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
+  Hongli Xu, xianjun Gao, Jianchun Liu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
   <em>IEEE Transactions on Mobile Computing (TMC), 2025</em>
 </div>
 
