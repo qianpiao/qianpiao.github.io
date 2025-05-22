@@ -251,7 +251,7 @@ redirect_from:
 
 <div class="entry">
 - <strong>Fully Distributed Task Offloading in Vehicular Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
-  Qianpiao Ma</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
+  <strong>Qianpiao Ma</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
   <em>IEEE Transactions on Vehicular Technology (TVT), 2024, 73(4), 5630-5646</em>
 </div>
 
