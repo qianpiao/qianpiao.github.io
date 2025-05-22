@@ -191,29 +191,36 @@ redirect_from:
 
 <span style="font-size:16px"><em>(*  Corresponding author)</em> </span>
 
+<style>
+.entry {
+  font-size: 16px;
+  padding-left: 1.5em; /* 保证第一行的 "-" 有缩进 */
+  text-indent: -1.5em; /* 把第一行拉回去 */
+  margin-bottom: 1em;
+}
+</style>
+
 ### 2025
 
-<p style="font-size:16px;">
+<div class="entry">
 - <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong><br>
-  <strong>Qianpiao Ma</strong> , Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia<br>
+  <strong>Qianpiao Ma</strong>, Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia<br>
   <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025</em>
-</p>
-
+</div>
 
 ### Before 2022
 
-<p style="font-size:16px;">
+<div class="entry">
 - <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong><br>
   <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
   <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em>
-</p>
+</div>
 
-<p style="font-size:16px;">
+<div class="entry">
 - <strong>Service Placement Considering Robustness and Dynamic in Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a></strong>]<br>
   Yang Liu, <strong>Qianpiao Ma</strong><br>
   <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
-</p>
-
+</div>
 
 ## 🏆 Grants {#grants}
 
