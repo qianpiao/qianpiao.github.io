@@ -201,6 +201,17 @@ redirect_from:
 }
 </style>
 
+<style>
+.ccf-badge {
+  background-color: #4CAF50;  /* 绿色背景 */
+  color: white;               /* 白色文字 */
+  padding: 2px 6px;           /* 内边距 */
+  border-radius: 8px;         /* 圆角 */
+  font-size: 12px;            /* 字体大小 */
+  margin-left: 8px;           /* 左边距，防止贴太近 */
+}
+</style>
+
 ### 2025
 
 <div class="entry">
@@ -319,7 +330,7 @@ redirect_from:
 <div class="entry">
 - <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a></strong>]<br>
   <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
-  <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em>
+  <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em><span class="ccf-badge">CCF-A</span>
 </div>
 
 <div class="entry">
