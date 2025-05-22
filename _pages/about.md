@@ -211,9 +211,15 @@ redirect_from:
 ### Before 2022
 
 <div class="entry">
-- <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong><br>
+- <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/9562538" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedSA_A_Semi-Asynchronous_Federated_Learning_Mechanism_in_Heterogeneous_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedSA.html" target="_blank">BIB</a></strong>]<br>
   <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
   <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em>
+</div>
+
+<div class="entry">
+- <strong>Lightweight flow distribution for collaborative traffic measurement in software defined networks</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/8737516" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Lightweight_Flow_Distribution_for_Collaborative_Traffic_Measurement_in_Software_Defined_Networks.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Lightweight.html" target="_blank">BIB</a></strong>]<br>
+  Hongli Xu, Shigang Chen, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
+  <em>IEEE Conference on Computer Communications (INFOCOM)</em></strong>, IEEE, 2019: 1108-1116</em>
 </div>
 
 <div class="entry">
@@ -221,6 +227,7 @@ redirect_from:
   Yang Liu, <strong>Qianpiao Ma</strong><br>
   <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
 </div>
+
 
 ## 🏆 Grants {#grants}
 
