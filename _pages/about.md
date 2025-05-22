@@ -208,6 +208,91 @@ redirect_from:
   <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025</em>
 </div>
 
+
+<div class="entry">
+- <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong><br>
+  Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
+  <em>Journal of Systems Architecture: Embedded Software Design, 2025</em>
+</div>
+
+
+<div class="entry">
+- <strong>FedACS: An Adaptive Client Selection Framework for Communication-Efficient Federated Graph Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10972362" target="_blank">Link</a></strong>]<br>
+  <strong>Hongli Xu, xianjun Gao, Jianchun Liu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
+  <em>IEEE Transactions on Mobile Computing (TMC), 2025</em>
+</div>
+
+<div class="entry">
+- <strong>Accelerating End-Cloud Collaborative Inference via Near Bubble-free Pipeline Optimization</strong><br>
+  Luyao Gao, Jianchun Liu, Hongli Xu, Sun Xu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
+  <em>IEEE Conference on Computer Communications (INFOCOM), 2025</em>
+</div>
+
+<div class="entry">
+- <strong>基于块级多输出和知识自蒸馏的高效联邦学习框架</strong> <br>
+  刘建春,梁文艺,徐宏力,<strong>马千飘</strong>,黄刘生<br>
+  <em>软件学报, 2025</em>
+</div>
+
+<div class="entry">
+- <strong>Deterministic computing power networking: Architecture, technologies and prospects</strong> <br>
+  Qingmin Jia, Yujiao Hu, Xiaomao Zhou, <strong>Qianpiao Ma</strong>, Kai Guo, Huayu Zhang, Renchao Xie, Tao Huang, Yunjie Liu<br>
+  <em>China Communications, 2025</em>
+</div>
+
+### 2024
+
+<div class="entry">
+- <strong>FedUC: A Unified Clustering Approach for Hierarchical Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedUC_A_Unified_Clustering_Approach_for_Hierarchical_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedUC.html" target="_blank">BIB</a></strong>]<br>
+  <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Jianchun Liu, Liusheng Huang<br>
+  <em>IEEE Transactions on Mobile Computing (TMC), 2024, 23(10): 9737-9756</em>
+</div>
+
+
+<div class="entry">
+- <strong>Fully Distributed Task Offloading in Vehicular Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
+  Qianpiao Ma</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
+  <em>IEEE Transactions on Vehicular Technology (TVT), 2024, 73(4), 5630-5646</em>
+</div>
+
+<div class="entry">
+- <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
+  <strong>Qianpiao Ma</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
+  <em>China Communications, 2025</em>
+</div>
+
+<div class="entry">
+- <strong>Dynamic Staleness Control for Asynchronous Federated Learning in Decentralized Topology</strong> [<strong><a href="https://link.springer.com/chapter/10.1007/978-3-031-71467-2_9" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_Staleness_Control_for_Asynchronous_Federated_Learning_in_Decentralized_Topology.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/SC_ADFL.html" target="_blank">BIB</a></strong>]<br>
+  <strong>Qianpiao Ma</strong>, Jianchun Liu, Qingmin Jia, Xiaomao Zhou, Yujiao Hu, Renchao Xie<br>
+  <em>The 18th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA), 2024</em>
+</div>
+
+<div class="entry">
+- <strong>Distributed Strategy for Collaborative Traffic Measurement in a Multi-Controller SDN</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10109878" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Distributed_Strategy_for_Collaborative_Traffic_Measurement_in_a_Multi_Controller_SDN.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/SDNMCM.html" target="_blank">BIB</a></strong>]<br>
+  Da Yao, <strong>Qianpiao Ma*</strong>, Haibo Wang, Min Chen, Hongli Xu<br>
+  <em>IEEE Transactions on Network Science and Engineering (TNSE), 2024, 11(3): 2450-2461</em>
+</div>
+
+
+<div class="entry">
+- <strong>FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10443215" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Federated_Learning_Framework_for_Efficient_Training_With_IoT_Devices.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD.html" target="_blank">BIB</a></strong>]<br>
+  Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, <strong>Qianpiao Ma*</strong>, Jinyang Huang<br>
+  <em>IEEE Internet of Things Journal (IOT), 2024, 11(11): 20040-20050</em>
+</div>
+
+<div class="entry">
+- <strong>Yoga: Adaptive layer-wise model aggregation for decentralized federated learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10309973" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/YOGA_Adaptive_Layer-Wise_Model_Aggregation_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Yoga.html" target="_blank">BIB</a></strong>]<br>
+  Jun Liu, Jianchun Liu, Hongli Xu, Yunming Liao, Zhiyuan Wang, <strong>Qianpiao Ma</strong><br>
+  <em>IEEE/ACM Transactions on Networking (TON), 2024, 32(2): 1768-1780</em>
+</div>
+
+<div class="entry">
+- <strong>Towards Communication-Efficient Federated Graph Learning: An Adaptive Client Selection Perspective</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10682905" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Towards_Communication-Efficient_Federated_Graph_Learning_An_Adaptive_Client_Selection_Perspective.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CE_FGL.html" target="_blank">BIB</a></strong>]<br>
+  Xianjun Gao, Jianchun Liu, Hongli Xu, <strong>Qianpiao Ma</strong>, Lun Wang<br>
+  <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), 2024</em>
+</div>
+
+
 ### 2023
 
 <div class="entry">
