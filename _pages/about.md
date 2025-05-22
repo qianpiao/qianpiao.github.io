@@ -240,7 +240,7 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>FedACS: An Adaptive Client Selection Framework for Communication-Efficient Federated Graph Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10972362" target="_blank">Link</a></strong>]<br>
+- <strong>FedACS: An Adaptive Client Selection Framework for Communication-Efficient Federated Graph Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10972362" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedACS.html" target="_blank">BIB</a></strong>]<br>
   Hongli Xu, xianjun Gao, Jianchun Liu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
   <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
 </div>
