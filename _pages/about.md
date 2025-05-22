@@ -202,15 +202,17 @@ redirect_from:
 
 ### Before 2022
 
-<div style="font-size: 16px;">
-- <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong>  
-  <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang
+<p style="font-size:16px;">
+- <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong><br>
+  <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
   <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em>
+</p>
 
-- <strong>Service Placement Considering Robustness and Dynamic in Edge Computing</strong>[<strong><a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a></strong>]  
-  Yang Liu, <strong>Qianpiao Ma</strong>
+<p style="font-size:16px;">
+- <strong>Service Placement Considering Robustness and Dynamic in Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a></strong>]<br>
+  Yang Liu, <strong>Qianpiao Ma</strong><br>
   <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
-</div>
+</p>
 
 
 ## 🏆 Grants {#grants}
