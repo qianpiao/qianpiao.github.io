@@ -203,12 +203,13 @@ redirect_from:
 
 <style>
 .ccf-badge {
-  background-color: #4CAF50;  /* 绿色背景 */
-  color: white;               /* 白色文字 */
-  padding: 2px 6px;           /* 内边距 */
-  border-radius: 8px;         /* 圆角 */
-  font-size: 12px;            /* 字体大小 */
-  margin-left: 8px;           /* 左边距，防止贴太近 */
+  background-color: #4CAF50;   /* 绿色背景 */
+  color: white;                /* 白色文字 */
+  padding: 2px 8px;            /* 内边距，适配更大字体 */
+  border-radius: 8px;          /* 圆角 */
+  font-size: 16px;             /* 字体大小 */
+  font-weight: bold;           /* 加粗 */
+  margin-left: 8px;            /* 与前面内容间隔 */
 }
 </style>
 
