@@ -54,7 +54,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
-    <td style="border: none; padding: 8px;">One paper <strong>DTORA</strong> about task offloading in MEC accepted by <strong>JSA</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong>DTORA</strong> about task offloading and resource allocation in MEC accepted by <strong>JSA</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
