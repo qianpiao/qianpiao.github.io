@@ -330,7 +330,7 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>自智算力网络: 架构, 技术与展望</strong> [<strong><a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a></strong>]<br>
+- <strong>自智算力网络: 架构, 技术与展望</strong> [<strong><a href="https://www.infocomm-journal.com/wlw/CN/Y2023/V7/I4/1" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/自智算力网络：架构、技术与展望.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/zizhi.html" target="_blank">BIB</a></strong>]<br>
   周晓茂, 贾庆民, 胡玉姣, 郭凯, <strong>马千飘</strong>, 刘辉, 谢人超<br>
   <em>物联网学报, 2023, 7(4): 1-12</em><span class="ccf-badge">CCF-T2</span>
 </div>
@@ -351,7 +351,7 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>Service Placement Considering Robustness and Dynamic in Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/自智算力网络：架构、技术与展望.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/zizhi.html" target="_blank">BIB</a></strong>]<br>
+- <strong>Service Placement Considering Robustness and Dynamic in Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Service_Placement_Considering_Robustness_and_Dynamic_in_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/RTSO.html" target="_blank">BIB</a></strong>]<br>
   Yang Liu, <strong>Qianpiao Ma</strong><br>
   <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
 </div>
