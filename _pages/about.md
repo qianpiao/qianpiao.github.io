@@ -191,7 +191,7 @@ redirect_from:
 
 <span style="font-size:16px"><em>(*  Corresponding author)</em> </span>
 
-# 2025
+### 2025
 
 - **Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation**  
   **Qianpiao Ma**, Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia
