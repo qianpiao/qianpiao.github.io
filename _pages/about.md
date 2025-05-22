@@ -193,9 +193,24 @@ redirect_from:
 
 ### 2025
 
-- **Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation**  
-  **Qianpiao Ma**, Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia
-  *IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025*
+<div style="font-size: 16px;">
+- <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong> 
+  <strong>Qianpiao Ma</strong> , Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia
+  <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025</em>
+</div>
+
+### Before 2022
+
+<div style="font-size: 16px;">
+- <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong>  
+  <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang
+  <em>IEEE Journal on Selected Areas in Communications (JSAC), 2021, 39(12): 3654-3672</em>
+
+- <strong>Service Placement Considering Robustness and Dynamic in Edge Computing</strong>[<strong><a href="https://ieeexplore.ieee.org/abstract/document/9442568" target="_blank">Link</a></strong>]  
+  Yang Liu, <strong>Qianpiao Ma</strong>
+  <em>IEEE 6th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA), 2021: 369-374</em>
+</div>
+
 
 ## 🏆 Grants {#grants}
 
