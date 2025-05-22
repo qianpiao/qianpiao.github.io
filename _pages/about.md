@@ -249,7 +249,6 @@ redirect_from:
   <em>IEEE Transactions on Mobile Computing (TMC), 2024, 23(10): 9737-9756</em>
 </div>
 
-
 <div class="entry">
 - <strong>Fully Distributed Task Offloading in Vehicular Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
   Qianpiao Ma</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
@@ -259,7 +258,7 @@ redirect_from:
 <div class="entry">
 - <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
   <strong>Qianpiao Ma</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
-  <em>China Communications, 2025</em>
+  <em>IEEE Transactions on Big Data (TBD), 2024</em>
 </div>
 
 <div class="entry">
