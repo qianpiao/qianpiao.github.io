@@ -234,9 +234,9 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong><br>
+- <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong><br> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_task_offloading_and_resource_allocation_for_energy-harvesting_end–edge–cloud_computing_systems.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DTORA.html" target="_blank">BIB</a></strong>]
   Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
-  <em>Journal of Systems Architecture: Embedded Software Design, 2025</em><span class="ccf-badge">CCF-B</span>
+  <em>Journal of Systems Architecture: Embedded Software Design, 2025, 103469</em><span class="ccf-badge">CCF-B</span>
 </div>
 
 <div class="entry">
