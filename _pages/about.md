@@ -228,7 +228,7 @@ redirect_from:
 ### 2025
 
 <div class="entry">
-- <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong><br>
+- <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11078505" target="_blank">Link</a></strong>]<br>
   <strong>Qianpiao Ma</strong>, Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia<br>
   <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2025</em><span class="ccf-badge">CCF-B</span>
 </div>
