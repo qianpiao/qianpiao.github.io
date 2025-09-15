@@ -234,6 +234,12 @@ redirect_from:
 </div>
 
 <div class="entry">
+- <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
+  <strong>Qianpiao Ma</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
+  <em>IEEE Transactions on Big Data (TBD), 2025, 11(5), 2102-2118</em><span class="ccf-badge">CCF-C</span><span class="cas-badge">中科院二区</span>
+</div>
+
+<div class="entry">
 - <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_task_offloading_and_resource_allocation_for_energy-harvesting_end–edge–cloud_computing_systems.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DTORA.html" target="_blank">BIB</a></strong>]<br>
   Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
   <em>Journal of Systems Architecture: Embedded Software Design, 2025, 103469</em><span class="ccf-badge">CCF-B</span>
@@ -275,12 +281,6 @@ redirect_from:
 - <strong>Fully Distributed Task Offloading in Vehicular Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
   <strong>Qianpiao Ma</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
   <em>IEEE Transactions on Vehicular Technology (TVT), 2024, 73(4), 5630-5646</em><span class="cas-badge">中科院二区</span>
-</div>
-
-<div class="entry">
-- <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
-  <strong>Qianpiao Ma</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
-  <em>IEEE Transactions on Big Data (TBD), 2024</em><span class="ccf-badge">CCF-C</span><span class="cas-badge">中科院二区</span>
 </div>
 
 <div class="entry">
