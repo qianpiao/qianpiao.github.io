@@ -387,10 +387,12 @@ redirect_from:
     <li><span style="font-size:16px">IEEE Transactions on Mobile Computing</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Services Computing</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Wireless Communications</span></li>
+    <li><span style="font-size:16px">IEEE Transactions on Intelligent Transportation Systems</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Big Data</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Network and Service Management</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Vehicular Technology</span></li>
     <li><span style="font-size:16px">Future Generation Computer Systems</span></li>
+    <li><span style="font-size:16px">Engineering Applications of Artificial Intelligence</span></li>
     <li><span style="font-size:16px">IEEE International Conference on Peer-to-Peer Computing</span></li>
     <li><span style="font-size:16px">IEEE International Conference on Cloud Computing</span></li>
     <li><span style="font-size:16px">Scientific Reports</span></li>
