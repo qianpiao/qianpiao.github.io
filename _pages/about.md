@@ -264,7 +264,7 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>Deterministic computing power networking: Architecture, technologies and prospects</strong> <br>
+- <strong>Deterministic computing power networking: Architecture, technologies and prospects</strong> [<strong><a href="http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0561" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Deterministic Computing Power Networking_ Architecture,_Technologies and Prospects.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Deterministic.html" target="_blank">BIB</a></strong>]<br>
   Qingmin Jia, Yujiao Hu, Xiaomao Zhou, <strong>Qianpiao Ma</strong>, Kai Guo, Huayu Zhang, Renchao Xie, Tao Huang, Yunjie Liu<br>
   <em>China Communications, 2025</em>
 </div>
