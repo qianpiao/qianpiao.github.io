@@ -54,7 +54,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
-    <td style="border: none; padding: 8px;">One paper <strong>DTORA</strong> about task offloading and resource allocation in MEC accepted by <strong>JSA</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank" style="text-decoration: none">DTORA</a> about task offloading and resource allocation in MEC accepted by <strong>JSA</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
@@ -66,11 +66,11 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">One paper <strong>Air-FedGA</strong> about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/11078505" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <strong>COACH</strong> about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/abstract/document/11044632" target="_blank" style="text-decoration: none">COACH</a> about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
