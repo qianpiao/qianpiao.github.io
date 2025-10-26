@@ -50,7 +50,7 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.10</td>
-    <td style="border: none; padding: 8px;">One paper <strong>CADER</strong> about cloud application deployment in multi-clouds accepted by <strong>TCC</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong>CADER</strong> about cloud application deployment in multi-clouds accepted by <strong>IEEE TCC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
@@ -84,11 +84,11 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-71467-2_9" target="_blank" style="text-decoration: none">SC-ADFL</a> about asynchronous decentralized federated learning accepted by <strong>WASA 2024</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.04</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/abstract/document/10682905" target="_blank" style="text-decoration: none">FedACS</a> about client selection in federated learning accepted by <strong>IWQoS 2024</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank" style="text-decoration: none">FedUC</a> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
