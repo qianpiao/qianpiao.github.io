@@ -49,6 +49,10 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2025.10</td>
+    <td style="border: none; padding: 8px;">One paper <strong>CADER</strong> about cloud application deployment in multi-clouds accepted by <strong>TCC</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">I have been granted the <strong>Fundamental Research Funds for the Central Universities</strong>.</td>
   </tr>
