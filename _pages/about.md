@@ -240,13 +240,13 @@ redirect_from:
 <div class="entry">
 - <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
   <strong>Qianpiao Ma</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
-  <em>IEEE Transactions on Big Data (TBD), 2025, 11(5), 2102-2118</em><span class="ccf-badge">CCF-C</span><span class="cas-badge">中科院二区</span>
+  <em>IEEE Transactions on Big Data (TBD), 2025, 11(5), 2102-2118</em><span class="cas-badge">中科院二区</span>
 </div>
 
 <div class="entry">
 - <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> <br>
    Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
-  <em>IEEE Transactions on Cloud Computing (TCC), 2025</em><span class="ccf-badge">CCF-C</span><span class="cas-badge">中科院二区</span>
+  <em>IEEE Transactions on Cloud Computing (TCC), 2025</em><span class="cas-badge">中科院二区</span>
 </div>
 
 <div class="entry">
@@ -309,7 +309,7 @@ redirect_from:
 <div class="entry">
 - <strong>FedCD: A Hybrid Federated Learning Framework for Efficient Training With IoT Devices</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10443215" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedCD_A_Hybrid_Federated_Learning_Framework_for_Efficient_Training_With_IoT_Devices.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedCD.html" target="_blank">BIB</a></strong>]<br>
   Jianchun Liu, Yujia Huo, Pengcheng Qu, Sun Xu, Zhi Liu, <strong>Qianpiao Ma*</strong>, Jinyang Huang<br>
-  <em>IEEE Internet of Things Journal (IOT), 2024, 11(11): 20040-20050</em><span class="ccf-badge">CCF-C</span><span class="cas-badge">中科院二区</span>
+  <em>IEEE Internet of Things Journal (IOT), 2024, 11(11): 20040-20050</em><span class="cas-badge">中科院二区</span>
 </div>
 
 <div class="entry">
