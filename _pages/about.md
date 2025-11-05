@@ -405,6 +405,8 @@ redirect_from:
     <li><span style="font-size:16px">Engineering Applications of Artificial Intelligence</span></li>
     <li><span style="font-size:16px">IEEE International Conference on Peer-to-Peer Computing</span></li>
     <li><span style="font-size:16px">IEEE International Conference on Cloud Computing</span></li>
+    <li><span style="font-size:16px">IEEE Internet of Things Journal</span></li>
+    <li><span style="font-size:16px">IEEE Access</span></li>
     <li><span style="font-size:16px">Internet of Things</span></li>
     <li><span style="font-size:16px">Scientific Reports</span></li>
     <li><span style="font-size:16px">Sensors</span></li>
