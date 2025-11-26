@@ -49,7 +49,7 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2025.05</td>
+    <td style="border: none; padding: 8px;">🎉 2025.11</td>
     <td style="border: none; padding: 8px;">My co-author's paper <strong>FedQuad</strong> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
@@ -394,6 +394,7 @@ redirect_from:
 
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
+    <li><span style="font-size:16px">国家自然科学基金委员会, 联合基金项目, U25A20442, 边云协同的多模态行为可信感知与稳健解析研究, 2026-01-01 至 2029-12-31, 258万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重点项目, 62132019, 边缘侧大数据计算基础理论与技术, 2022-01-01 至 2026-12-31, 298万元</span></li>
     <li><span style="font-size:16px">国家自然科学基金委员会, 重大研究计划, 92367104, 工业互联网生成式人工智能方法与关键技术, 2024-01-01 至 2026-12-31, 80万元</span></li>
   </ul>
