@@ -49,6 +49,10 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2025.05</td>
+    <td style="border: none; padding: 8px;">My co-author's paper <strong>FedQuad</strong> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.10</td>
     <td style="border: none; padding: 8px;">One paper <strong>CADER</strong> about cloud application deployment in multi-clouds accepted by <strong>IEEE TCC</strong>.</td>
   </tr>
@@ -247,6 +251,12 @@ redirect_from:
 - <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> <br>
    Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
   <em>IEEE Transactions on Cloud Computing (TCC), 2025</em><span class="cas-badge">中科院二区</span>
+</div>
+
+<div class="entry">
+- <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> <br>
+   Jianchun Liu, Rukuo Li, Hongli Xu, <strong>Qianpiao Ma</strong>, Jiaming Yan, Liusheng Huang<br>
+  <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span>
 </div>
 
 <div class="entry">
