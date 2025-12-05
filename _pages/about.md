@@ -202,7 +202,7 @@ redirect_from:
   </ul>
 </div>-->
 
-<span style="font-size:16px"><strong><em>(*  Corresponding author)</em></strong> </span>
+<span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
 
 <style>
 .entry {
