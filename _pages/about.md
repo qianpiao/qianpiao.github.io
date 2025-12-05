@@ -49,6 +49,10 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2025.12</td>
+    <td style="border: none; padding: 8px;">My co-author's paper about federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
     <td style="border: none; padding: 8px;">My co-author's paper <strong>FedQuad</strong> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
@@ -198,7 +202,7 @@ redirect_from:
   </ul>
 </div>-->
 
-<span style="font-size:16px"><em>(*  Corresponding author)</em> </span>
+<span style="font-size:16px"><strong><em>(*  Corresponding author)</em></strong> </span>
 
 <style>
 .entry {
@@ -256,7 +260,13 @@ redirect_from:
 <div class="entry">
 - <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> <br>
    Jianchun Liu, Rukuo Li, Hongli Xu, <strong>Qianpiao Ma</strong>, Jiaming Yan, Liusheng Huang<br>
-  <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span>
+  <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
+</div>
+
+<div class="entry">
+- <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> <br>
+   Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
+  <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
 </div>
 
 <div class="entry">
