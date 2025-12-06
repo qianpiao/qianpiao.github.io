@@ -50,6 +50,10 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
+    <td style="border: none; padding: 8px;">One paper <strong>Air-FedGA</strong> about federated learning via over-the-air computation accepted by <strong>IEEE TON</strong>.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2025.12</td>
     <td style="border: none; padding: 8px;">My co-author's paper <strong>DUPLEX</strong> about decentralized federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
@@ -92,11 +96,11 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-71467-2_9" target="_blank" style="text-decoration: none">SC-ADFL</a> about asynchronous decentralized federated learning accepted by <strong>WASA 2024</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.04</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/abstract/document/10682905" target="_blank" style="text-decoration: none">FedACS</a> about client selection in federated learning accepted by <strong>IWQoS 2024</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/abstract/document/10439630" target="_blank" style="text-decoration: none">FedUC</a> about unified clustering for hierarchical federated learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
@@ -238,6 +242,12 @@ redirect_from:
 </style>
 
 ### 2025
+
+<div class="entry">
+- <strong>Asynchronous Federated Learning over Non-IID Data via Over-the-air Computation</strong> <br>
+  <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Haibo Wang, Yunming Liao, Jianchun Liu, Hongli Xu<br>
+  <em>IEEE Transactions on Networking (TON), 2025</em><span class="ccf-badge">CCF-A</span>
+</div>
 
 <div class="entry">
 - <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11078505" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Air-FedGA_A_Grouping_Asynchronous_Federated_Learning_Mechanism_Exploiting_Over-The-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA.html" target="_blank">BIB</a></strong>]<br>
