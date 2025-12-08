@@ -422,7 +422,10 @@ redirect_from:
 
 ## 💼 Services {#services}
 
-IEEE JSAC, IEEE TMC, IEEE TSC, IEEE TWC, IEEE TITS, IEEE TBD, IEEE TNSM, IEEE TVT, Elsevier FGCS, Elsevier EAAI, IEEE P2P, IEEE Cloud, IEEE IOTJ, IEEE Access, Elsevier IOT, <em>etc.</em>.
+
+<p style="text-align: justify;">
+<span style="font-size:16px">IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Intelligent Transportation Systems, Journal of Systems Architecture: Embedded Software Design, Information Sciences, IEEE Transactions on Big Data, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Journal, Future Generation Computer Systems, Engineering Applications of Artificial Intelligence, IEEE International Conference on Peer-to-Peer Computing, IEEE International Conference on Cloud Computing, IEEE Access, Internet of Things, Scientific Reports, Sensors</span>
+</p>
 
 <!-- <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
