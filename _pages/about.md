@@ -422,7 +422,9 @@ redirect_from:
 
 ## 💼 Services {#services}
 
-<div style="text-align: justify; text-indent: -1.5em;">
+IEEE JSAC, IEEE TMC, IEEE TSC, IEEE TWC, IEEE TITS, IEEE TBD, IEEE TNSM, IEEE TVT, Elsevier FGCS, Elsevier EAAI, IEEE P2P, IEEE Cloud, IEEE IOTJ, IEEE Access, Elsevier IOT, <em>etc.</em>.
+
+<!-- <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Mobile Computing</span></li>
@@ -442,7 +444,7 @@ redirect_from:
     <li><span style="font-size:16px">Scientific Reports</span></li>
     <li><span style="font-size:16px">Sensors</span></li>
   </ul>
-</div>
+</div> -->
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=b"></script>
