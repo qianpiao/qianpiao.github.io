@@ -294,7 +294,7 @@ redirect_from:
 <div class="entry">
 - <strong>Accelerating End-Cloud Collaborative Inference via Near Bubble-free Pipeline Optimization</strong>[<strong><a href="https://ieeexplore.ieee.org/abstract/document/11044632" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Accelerating_End-Cloud_Collaborative_Inference_via_Near_Bubble-free_Pipeline_Optimization.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/COACH.html" target="_blank">BIB</a></strong>]<br>
   Luyao Gao, Jianchun Liu, Hongli Xu, Sun Xu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-  <em>IEEE Conference on Computer Communications (INFOCOM), 2025</em><span class="ccf-badge">CCF-A</span>
+  <em>IEEE Conference on Computer Communications (INFOCOM), London, United Kingdom, 2025: 1-10</em><span class="ccf-badge">CCF-A</span>
 </div>
 
 <div class="entry">
@@ -351,7 +351,7 @@ redirect_from:
 <div class="entry">
 - <strong>Towards Communication-Efficient Federated Graph Learning: An Adaptive Client Selection Perspective</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10682905" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Towards_Communication-Efficient_Federated_Graph_Learning_An_Adaptive_Client_Selection_Perspective.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CE_FGL.html" target="_blank">BIB</a></strong>]<br>
   Xianjun Gao, Jianchun Liu, Hongli Xu, <strong>Qianpiao Ma</strong>, Lun Wang<br>
-  <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), 2024</em><span class="ccf-badge">CCF-B</span>
+  <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), Guangzhou, China, 2024: 1-10</em><span class="ccf-badge">CCF-B</span>
 </div>
 
 
