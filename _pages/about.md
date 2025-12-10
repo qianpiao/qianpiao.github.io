@@ -262,19 +262,19 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11219081" target="_blank">Link</a></strong>]<br>
+- <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11219081" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CADER.html" target="_blank">BIB</a></strong>]<br>
    Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
   <em>IEEE Transactions on Cloud Computing (TCC), 2025</em><span class="cas-badge">中科院二区</span>
 </div>
 
 <div class="entry">
-- <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>]<br>
+- <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedQuad.html" target="_blank">BIB</a></strong>]<br>
    Jianchun Liu, Rukuo Li, Hongli Xu, <strong>Qianpiao Ma</strong>, Jiaming Yan, Liusheng Huang<br>
   <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
 </div>
 
 <div class="entry">
-- <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11288048" target="_blank">Link</a></strong>]<br>
+- <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DUPLEX.html" target="_blank">BIB</a></strong>]<br>
    Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
   <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
 </div>
