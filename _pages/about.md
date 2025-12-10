@@ -54,15 +54,15 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <strong>DUPLEX</strong> about decentralized federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/11288048" target="_blank" style="text-decoration: none">DUPLEX</a> about decentralized federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <strong>FedQuad</strong> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-author's paper  <a href="https://ieeexplore.ieee.org/document/11268968" target="_blank" style="text-decoration: none">FedQuad</a> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.10</td>
-    <td style="border: none; padding: 8px;">One paper <strong>CADER</strong> about cloud application deployment in multi-clouds accepted by <strong>IEEE TCC</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11219081" target="_blank" style="text-decoration: none">CADER</a> about cloud application deployment in multi-clouds accepted by <strong>IEEE TCC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
