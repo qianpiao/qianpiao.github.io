@@ -262,20 +262,26 @@ redirect_from:
 </div>
 
 <div class="entry">
-- <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> <br>
+- <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11219081" target="_blank">Link</a></strong>]<br>
    Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
   <em>IEEE Transactions on Cloud Computing (TCC), 2025</em><span class="cas-badge">中科院二区</span>
 </div>
 
 <div class="entry">
-- <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> <br>
+- <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>]<br>
    Jianchun Liu, Rukuo Li, Hongli Xu, <strong>Qianpiao Ma</strong>, Jiaming Yan, Liusheng Huang<br>
   <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
 </div>
 
 <div class="entry">
-- <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> <br>
+- <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11288048" target="_blank">Link</a></strong>]<br>
    Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
+  <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
+</div>
+
+<div class="entry">
+- <strong>FedACS: An Adaptive Client Selection Framework for Communication-Efficient Federated Graph Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10972362" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedACS_An_Adaptive_Client_Selection_Framework_for_Communication-Efficient_Federated_Graph_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedACS.html" target="_blank">BIB</a></strong>]<br>
+  Hongli Xu, xianjun Gao, Jianchun Liu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
   <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
 </div>
 
@@ -283,12 +289,6 @@ redirect_from:
 - <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_task_offloading_and_resource_allocation_for_energy-harvesting_end–edge–cloud_computing_systems.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DTORA.html" target="_blank">BIB</a></strong>]<br>
   Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
   <em>Journal of Systems Architecture: Embedded Software Design, 2025, 103469</em><span class="ccf-badge">CCF-B</span>
-</div>
-
-<div class="entry">
-- <strong>FedACS: An Adaptive Client Selection Framework for Communication-Efficient Federated Graph Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10972362" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedACS_An_Adaptive_Client_Selection_Framework_for_Communication-Efficient_Federated_Graph_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedACS.html" target="_blank">BIB</a></strong>]<br>
-  Hongli Xu, xianjun Gao, Jianchun Liu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-  <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
 </div>
 
 <div class="entry">
