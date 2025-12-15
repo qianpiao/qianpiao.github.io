@@ -257,7 +257,7 @@ redirect_from:
 
 <div class="entry">
 - <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
-  <strong>Qianpiao Ma</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
+  <strong>Qianpiao Ma*</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
   <em>IEEE Transactions on Big Data (TBD), 2025, 11(5), 2102-2118</em><span class="cas-badge">中科院二区</span>
 </div>
 
@@ -319,7 +319,7 @@ redirect_from:
 
 <div class="entry">
 - <strong>Fully Distributed Task Offloading in Vehicular Edge Computing</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/10314029" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Fully_Distributed_Task_Offloading_in_Vehicular_Edge_Computing.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FDTO.html" target="_blank">BIB</a></strong>]<br>
-  <strong>Qianpiao Ma</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
+  <strong>Qianpiao Ma*</strong>, Hongli Xu, Haibo Wang, Yang Xu, Qingmin Jia, Chunming Qiao<br>
   <em>IEEE Transactions on Vehicular Technology (TVT), 2024, 73(4), 5630-5646</em><span class="cas-badge">中科院二区</span>
 </div>
 
@@ -424,7 +424,7 @@ redirect_from:
 
 
 <p style="text-align: justify;">
-<span style="font-size:16px">IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Intelligent Transportation Systems, Journal of Systems Architecture: Embedded Software Design, Information Sciences, IEEE Transactions on Big Data, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Journal, Future Generation Computer Systems, Engineering Applications of Artificial Intelligence, IEEE International Conference on Peer-to-Peer Computing, IEEE International Conference on Cloud Computing, IEEE Access, Internet of Things, Scientific Reports, Sensors</span>
+<span style="font-size:16px">IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Intelligent Transportation Systems, Journal of Systems Architecture: Embedded Software Design, Information Sciences, IEEE Transactions on Big Data, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Journal, Future Generation Computer Systems, Engineering Applications of Artificial Intelligence, IEEE International Conference on Peer-to-Peer Computing, IEEE International Conference on Cloud Computing, IEEE Open Journal of the Communications Society, IEEE Access, Internet of Things, Scientific Reports, Sensors</span>
 </p>
 
 <!-- <div style="text-align: justify; text-indent: -1.5em;">
