@@ -423,35 +423,52 @@ redirect_from:
 ## 💼 Services {#services}
 
 
-<p style="text-align: justify;">
-<span style="font-size:16px">IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Intelligent Transportation Systems, Journal of Systems Architecture: Embedded Software Design, Information Sciences, IEEE Transactions on Big Data, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Journal, Future Generation Computer Systems, Engineering Applications of Artificial Intelligence, IEEE International Conference on Peer-to-Peer Computing, IEEE International Conference on Cloud Computing, IEEE Open Journal of the Communications Society, IEEE Access, Internet of Things, Scientific Reports, Sensors</span>
-</p>
+<ul id="services-list" style="font-size:16px; padding-left: 20px;">
 
-<p id="services-main" style="text-align: justify; font-size:16px;">
-  IEEE Journal on Selected Areas in Communications, 
-  IEEE Transactions on Mobile Computing, 
-  IEEE Transactions on Services Computing, 
-  IEEE Transactions on Wireless Communications, 
-  IEEE Transactions on Intelligent Transportation Systems,
-  <span class="extra-services" style="display:none;">
-    Journal of Systems Architecture: Embedded Software Design, 
-    Information Sciences, 
-    IEEE Transactions on Big Data, 
-    IEEE Transactions on Network and Service Management, 
-    IEEE Transactions on Vehicular Technology, 
-    IEEE Transactions on Green Communications and Networking, 
-    IEEE Internet of Things Journal, 
-    Future Generation Computer Systems, 
-    Engineering Applications of Artificial Intelligence, 
-    IEEE International Conference on Peer-to-Peer Computing, 
-    IEEE International Conference on Cloud Computing, 
-    IEEE Open Journal of the Communications Society, 
-    IEEE Access, 
-    Internet of Things, 
-    Scientific Reports, 
-    Sensors
-  </span>
-</p>
+  <!-- 默认显示 -->
+  <li>IEEE Journal on Selected Areas in Communications</li>
+  <li>IEEE Transactions on Mobile Computing</li>
+  <li>IEEE Transactions on Services Computing</li>
+  <li>IEEE Transactions on Wireless Communications</li>
+  <li>IEEE Transactions on Intelligent Transportation Systems</li>
+
+  <!-- 隐藏部分 -->
+  <li class="extra-services" style="display:none;">
+    Journal of Systems Architecture: Embedded Software Design
+  </li>
+  <li class="extra-services" style="display:none;">Information Sciences</li>
+  <li class="extra-services" style="display:none;">IEEE Transactions on Big Data</li>
+  <li class="extra-services" style="display:none;">
+    IEEE Transactions on Network and Service Management
+  </li>
+  <li class="extra-services" style="display:none;">
+    IEEE Transactions on Vehicular Technology
+  </li>
+  <li class="extra-services" style="display:none;">
+    IEEE Transactions on Green Communications and Networking
+  </li>
+  <li class="extra-services" style="display:none;">IEEE Internet of Things Journal</li>
+  <li class="extra-services" style="display:none;">
+    Future Generation Computer Systems
+  </li>
+  <li class="extra-services" style="display:none;">
+    Engineering Applications of Artificial Intelligence
+  </li>
+  <li class="extra-services" style="display:none;">
+    IEEE International Conference on Peer-to-Peer Computing
+  </li>
+  <li class="extra-services" style="display:none;">
+    IEEE International Conference on Cloud Computing
+  </li>
+  <li class="extra-services" style="display:none;">
+    IEEE Open Journal of the Communications Society
+  </li>
+  <li class="extra-services" style="display:none;">IEEE Access</li>
+  <li class="extra-services" style="display:none;">Internet of Things</li>
+  <li class="extra-services" style="display:none;">Scientific Reports</li>
+  <li class="extra-services" style="display:none;">Sensors</li>
+
+</ul>
 
 <div style="text-align: center; margin-top: 6px;">
   <a href="#" id="toggle-services"
@@ -464,14 +481,16 @@ redirect_from:
 <script>
   const toggleServices = document.getElementById('toggle-services');
   const servicesArrow = document.getElementById('services-arrow');
-  const extraServices = document.querySelector('.extra-services');
+  const extraServices = document.querySelectorAll('.extra-services');
   let servicesExpanded = false;
 
   toggleServices.addEventListener('click', function(e) {
     e.preventDefault();
     servicesExpanded = !servicesExpanded;
 
-    extraServices.style.display = servicesExpanded ? 'inline' : 'none';
+    extraServices.forEach(item => {
+      item.style.display = servicesExpanded ? 'list-item' : 'none';
+    });
 
     if (servicesExpanded) {
       toggleServices.firstChild.textContent = 'Hide';
@@ -482,6 +501,7 @@ redirect_from:
     }
   });
 </script>
+
 
 <!-- <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
