@@ -427,50 +427,58 @@ redirect_from:
 <span style="font-size:16px">IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Intelligent Transportation Systems, Journal of Systems Architecture: Embedded Software Design, Information Sciences, IEEE Transactions on Big Data, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Journal, Future Generation Computer Systems, Engineering Applications of Artificial Intelligence, IEEE International Conference on Peer-to-Peer Computing, IEEE International Conference on Cloud Computing, IEEE Open Journal of the Communications Society, IEEE Access, Internet of Things, Scientific Reports, Sensors</span>
 </p>
 
-<table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 8px;">IEEE Journal on Selected Areas in Communications</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 8px;">IEEE Transactions on Mobile Computing</td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 8px;">IEEE Transactions on Services Computing</td>
-  </tr>
-  <tr class="extra-item" style="display: none; border: none;">
-    <td style="border: none; padding: 8px;">IEEE Transactions on Wireless Communications</td>
-  </tr>
-  <tr class="extra-item" style="display: none; border: none;">
-    <td style="border: none; padding: 8px;">IEEE Transactions on Intelligent Transportation Systems</td>
-  </tr>
-</table>
+<p id="services-main" style="text-align: justify; font-size:16px;">
+  IEEE Journal on Selected Areas in Communications, 
+  IEEE Transactions on Mobile Computing, 
+  IEEE Transactions on Services Computing, 
+  IEEE Transactions on Wireless Communications, 
+  IEEE Transactions on Intelligent Transportation Systems,
+  <span class="extra-services" style="display:none;">
+    Journal of Systems Architecture: Embedded Software Design, 
+    Information Sciences, 
+    IEEE Transactions on Big Data, 
+    IEEE Transactions on Network and Service Management, 
+    IEEE Transactions on Vehicular Technology, 
+    IEEE Transactions on Green Communications and Networking, 
+    IEEE Internet of Things Journal, 
+    Future Generation Computer Systems, 
+    Engineering Applications of Artificial Intelligence, 
+    IEEE International Conference on Peer-to-Peer Computing, 
+    IEEE International Conference on Cloud Computing, 
+    IEEE Open Journal of the Communications Society, 
+    IEEE Access, 
+    Internet of Things, 
+    Scientific Reports, 
+    Sensors
+  </span>
+</p>
 
-<div style="text-align: center; margin-top: 8px;">
-  <a href="#" id="toggle-items" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">
-    Show more... <span id="arrow2" style="display: inline-block; transition: transform 0.2s;">></span>
+<div style="text-align: center; margin-top: 6px;">
+  <a href="#" id="toggle-services"
+     style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">
+    Show more... <span id="services-arrow"
+      style="display: inline-block; transition: transform 0.2s;">></span>
   </a>
 </div>
 
 <script>
-  const toggleLink = document.getElementById('toggle-items');
-  const arrow2 = document.getElementById('arrow2');
-  const extraItem = document.querySelectorAll('.extra-item');
-  let isExpanded = false;
-  
-  toggleLink.addEventListener('click', function(e) {
+  const toggleServices = document.getElementById('toggle-services');
+  const servicesArrow = document.getElementById('services-arrow');
+  const extraServices = document.querySelector('.extra-services');
+  let servicesExpanded = false;
+
+  toggleServices.addEventListener('click', function(e) {
     e.preventDefault();
-    isExpanded = !isExpanded;
-    
-    extraNews.forEach(item => {
-      item.style.display = isExpanded ? 'table-row' : 'none';
-    });
-    
-    if (isExpanded) {
-      arrow2.style.transform = 'rotate(180deg)';
-      toggleLink.firstChild.textContent = 'Hide';
+    servicesExpanded = !servicesExpanded;
+
+    extraServices.style.display = servicesExpanded ? 'inline' : 'none';
+
+    if (servicesExpanded) {
+      toggleServices.firstChild.textContent = 'Hide';
+      servicesArrow.style.transform = 'rotate(180deg)';
     } else {
-      toggleLink.firstChild.textContent = 'Show more...';
-      arrow2.style.transform = 'rotate(0deg)';
+      toggleServices.firstChild.textContent = 'Show more...';
+      servicesArrow.style.transform = 'rotate(0deg)';
     }
   });
 </script>
