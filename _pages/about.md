@@ -437,24 +437,24 @@ redirect_from:
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">IEEE Transactions on Services Computing</td>
   </tr>
-  <tr class="extra-news" style="display: none; border: none;">
+  <tr class="extra-item" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">IEEE Transactions on Wireless Communications</td>
   </tr>
-  <tr class="extra-news" style="display: none; border: none;">
+  <tr class="extra-item" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">IEEE Transactions on Intelligent Transportation Systems</td>
   </tr>
 </table>
 
 <div style="text-align: center; margin-top: 8px;">
-  <a href="#" id="toggle-news" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">
-    Show more... <span id="arrow" style="display: inline-block; transition: transform 0.2s;">></span>
+  <a href="#" id="toggle-items" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">
+    Show more... <span id="arrow2" style="display: inline-block; transition: transform 0.2s;">></span>
   </a>
 </div>
 
 <script>
-  const toggleLink = document.getElementById('toggle-news');
-  const arrow = document.getElementById('arrow');
-  const extraNews = document.querySelectorAll('.extra-news');
+  const toggleLink = document.getElementById('toggle-items');
+  const arrow2 = document.getElementById('arrow2');
+  const extraItem = document.querySelectorAll('.extra-item');
   let isExpanded = false;
   
   toggleLink.addEventListener('click', function(e) {
@@ -466,11 +466,11 @@ redirect_from:
     });
     
     if (isExpanded) {
-      arrow.style.transform = 'rotate(180deg)';
+      arrow2.style.transform = 'rotate(180deg)';
       toggleLink.firstChild.textContent = 'Hide';
     } else {
       toggleLink.firstChild.textContent = 'Show more...';
-      arrow.style.transform = 'rotate(0deg)';
+      arrow2.style.transform = 'rotate(0deg)';
     }
   });
 </script>
