@@ -427,6 +427,54 @@ redirect_from:
 <span style="font-size:16px">IEEE Journal on Selected Areas in Communications, IEEE Transactions on Mobile Computing, IEEE Transactions on Services Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Intelligent Transportation Systems, Journal of Systems Architecture: Embedded Software Design, Information Sciences, IEEE Transactions on Big Data, IEEE Transactions on Network and Service Management, IEEE Transactions on Vehicular Technology, IEEE Transactions on Green Communications and Networking, IEEE Internet of Things Journal, Future Generation Computer Systems, Engineering Applications of Artificial Intelligence, IEEE International Conference on Peer-to-Peer Computing, IEEE International Conference on Cloud Computing, IEEE Open Journal of the Communications Society, IEEE Access, Internet of Things, Scientific Reports, Sensors</span>
 </p>
 
+<table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">IEEE Journal on Selected Areas in Communications</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">IEEE Transactions on Mobile Computing</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">IEEE Transactions on Services Computing</td>
+  </tr>
+  <tr class="extra-news" style="display: none; border: none;">
+    <td style="border: none; padding: 8px;">IEEE Transactions on Wireless Communications</td>
+  </tr>
+  <tr class="extra-news" style="display: none; border: none;">
+    <td style="border: none; padding: 8px;">IEEE Transactions on Intelligent Transportation Systems</td>
+  </tr>
+</table>
+
+<div style="text-align: center; margin-top: 8px;">
+  <a href="#" id="toggle-news" style="font-size: 14px; color: #0066cc; text-decoration: underline; cursor: pointer;">
+    Show more... <span id="arrow" style="display: inline-block; transition: transform 0.2s;">></span>
+  </a>
+</div>
+
+<script>
+  const toggleLink = document.getElementById('toggle-news');
+  const arrow = document.getElementById('arrow');
+  const extraNews = document.querySelectorAll('.extra-news');
+  let isExpanded = false;
+  
+  toggleLink.addEventListener('click', function(e) {
+    e.preventDefault();
+    isExpanded = !isExpanded;
+    
+    extraNews.forEach(item => {
+      item.style.display = isExpanded ? 'table-row' : 'none';
+    });
+    
+    if (isExpanded) {
+      arrow.style.transform = 'rotate(180deg)';
+      toggleLink.firstChild.textContent = 'Hide';
+    } else {
+      toggleLink.firstChild.textContent = 'Show more...';
+      arrow.style.transform = 'rotate(0deg)';
+    }
+  });
+</script>
+
 <!-- <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span></li>
