@@ -430,14 +430,14 @@ redirect_from:
   <li>IEEE Transactions on Mobile Computing</li>
   <li>IEEE Transactions on Services Computing</li>
   <li>IEEE Transactions on Wireless Communications</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Transactions on Intelligent Transportation Systems</li>
+  <li>计算机学报</li>
+  <li>Journal of Systems Architecture: Embedded Software Design</li>
+  <li>Information Sciences</li>
+  <li>IEEE Transactions on Big Data</li>
 
   <!-- 隐藏部分 -->
-  <li class="extra-services" style="display:none;">
-    Journal of Systems Architecture: Embedded Software Design
-  </li>
-  <li class="extra-services" style="display:none;">Information Sciences</li>
-  <li class="extra-services" style="display:none;">IEEE Transactions on Big Data</li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Network and Service Management
   </li>
