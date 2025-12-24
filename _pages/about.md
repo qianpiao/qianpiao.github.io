@@ -50,11 +50,15 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
-    <td style="border: none; padding: 8px;">One paper <strong>Air-FedGA</strong> about federated learning via over-the-air computation accepted by <strong>IEEE TON</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11300758" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IEEE TON</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/11288048" target="_blank" style="text-decoration: none">DUPLEX</a> about decentralized federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2025.11</td>
+    <td style="border: none; padding: 8px;">One project in which I participated was granted by the Joint Funds of the National Natural Science Foundation of China.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
@@ -90,7 +94,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
-    <td style="border: none; padding: 8px;">I have been granted the <strong>National Natural Science Foundation of China Youth Project</strong>.</td>
+    <td style="border: none; padding: 8px;">I have been granted the <strong>National Natural Science Foundation of China Youth Fund Project</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
