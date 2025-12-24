@@ -58,7 +58,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
-    <td style="border: none; padding: 8px;">One project in which I participated was granted by the Joint Funds of the National Natural Science Foundation of China.</td>
+    <td style="border: none; padding: 8px;">One project I participated was granted by the <strong>Joint Funds of the National Natural Science Foundation of China</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
@@ -96,7 +96,7 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
     <td style="border: none; padding: 8px;">I have been granted the <strong>National Natural Science Foundation of China Youth Fund Project</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.05</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-71467-2_9" target="_blank" style="text-decoration: none">SC-ADFL</a> about asynchronous decentralized federated learning accepted by <strong>WASA 2024</strong>.</td>
   </tr>
