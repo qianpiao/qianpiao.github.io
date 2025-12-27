@@ -465,6 +465,9 @@ redirect_from:
     IEEE International Conference on Cloud Computing
   </li>
   <li class="extra-services" style="display:none;">
+    Computer Networks
+  </li>
+  <li class="extra-services" style="display:none;">
     IEEE Open Journal of the Communications Society
   </li>
   <li class="extra-services" style="display:none;">IEEE Access</li>
