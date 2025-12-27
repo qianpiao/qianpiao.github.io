@@ -437,6 +437,7 @@ redirect_from:
   <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Transactions on Intelligent Transportation Systems</li>
   <li>计算机学报</li>
+  <li>Computer Networks</li>
   <li>Journal of Systems Architecture: Embedded Software Design</li>
   <li>Information Sciences</li>
   <li>IEEE Transactions on Big Data</li>
@@ -463,9 +464,6 @@ redirect_from:
   </li>
   <li class="extra-services" style="display:none;">
     IEEE International Conference on Cloud Computing
-  </li>
-  <li class="extra-services" style="display:none;">
-    Computer Networks
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Open Journal of the Communications Society
