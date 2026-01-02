@@ -294,17 +294,31 @@ redirect_from:
   display: none;
 }
 
-/* default show selected publications */
-#selected-tab:hover ~ #selected-content,
-#full-tab:hover ~ #full-content {
+/* 默认显示 Selected */
+.pub-tabs:not(:hover) #selected-content {
   display: block;
 }
 
-/* show selected by default */
-#selected-content {
+/* Hover 到 Selected tab */
+#selected-tab:hover ~ .tab-header,
+#selected-tab:hover {
+}
+
+#selected-tab:hover ~ .tab-content,
+.pub-tabs:has(#selected-tab:hover) #selected-content {
+  display: block;
+}
+
+/* Hover 到 Full tab */
+.pub-tabs:has(#full-tab:hover) #selected-content {
+  display: none;
+}
+
+.pub-tabs:has(#full-tab:hover) #full-content {
   display: block;
 }
 </style>
+
 
 <div class="pub-tabs">
 
@@ -324,7 +338,7 @@ redirect_from:
       [<strong><a href="https://ieeexplore.ieee.org/document/9562538" target="_blank">Link</a></strong>]
       <br>
       <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
-      <em>IEEE JSAC, 2021</em>
+      <em>IEEE JSAC, 2021, </em>
       <span class="ccf-badge">CCF-A</span>
       <span class="cas-badge">中科院一区</span>
     </div>
