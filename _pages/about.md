@@ -245,13 +245,46 @@ redirect_from:
 }
 </style>
 
+<div class="pub-tabs">
+
+  <!-- hidden radios -->
+  <input type="radio" name="pub-tab" id="tab-selected" checked>
+  <input type="radio" name="pub-tab" id="tab-full">
+
+  <!-- Tabs -->
+  <div class="tab-header">
+    <label for="tab-selected" class="tab-label">Selected Publications</label>
+    <label for="tab-full" class="tab-label">Full Publications</label>
+  </div>
+
+  <!-- Selected -->
+  <div class="tab-content selected-content">
+    <div class="entry">
+    - <strong>Asynchronous Federated Learning over Non-IID Data via Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
+      <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Haibo Wang, Yunming Liao, Jianchun Liu, Hongli Xu<br>
+      <em>IEEE Transactions on Networking (TON), 2025</em><span class="ccf-badge">CCF-A</span>
+    </div>
+  </div>
+
+  <!-- Full -->
+  <div class="tab-content full-content">
+    <div class="entry">
+    - <strong>Asynchronous Federated Learning over Non-IID Data via Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
+      <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Haibo Wang, Yunming Liao, Jianchun Liu, Hongli Xu, <br>
+      <em>IEEE Transactions on Networking (TON), 2025</em><span class="ccf-badge">CCF-A</span>
+    </div>
+  </div>
+
+</div>
+
+
 <style>
-/* Tabs container */
-.pub-tabs {
-  margin-top: 20px;
+/* hide radios */
+.pub-tabs input[type="radio"] {
+  display: none;
 }
 
-/* Tab header */
+/* Tabs header */
 .tab-header {
   display: flex;
   gap: 30px;
@@ -259,7 +292,7 @@ redirect_from:
   margin-bottom: 20px;
 }
 
-/* Tab labels */
+/* Labels */
 .tab-label {
   font-size: 18px;
   font-weight: bold;
@@ -269,11 +302,13 @@ redirect_from:
   color: #555;
 }
 
-.tab-label:hover {
+/* active tab */
+#tab-selected:checked ~ .tab-header label[for="tab-selected"],
+#tab-full:checked ~ .tab-header label[for="tab-full"] {
   color: #000;
 }
 
-/* underline effect */
+/* underline */
 .tab-label::after {
   content: "";
   position: absolute;
@@ -285,143 +320,26 @@ redirect_from:
   transition: width 0.3s ease;
 }
 
-.tab-label:hover::after {
+#tab-selected:checked ~ .tab-header label[for="tab-selected"]::after,
+#tab-full:checked ~ .tab-header label[for="tab-full"]::after {
   width: 100%;
 }
 
-/* Tab content */
+/* content */
 .tab-content {
   display: none;
 }
 
-/* 默认显示 Selected */
-.pub-tabs:not(:hover) #selected-content {
+#tab-selected:checked ~ .selected-content {
   display: block;
 }
 
-/* Hover 到 Selected tab */
-#selected-tab:hover ~ .tab-header,
-#selected-tab:hover {
-}
-
-#selected-tab:hover ~ .tab-content,
-.pub-tabs:has(#selected-tab:hover) #selected-content {
-  display: block;
-}
-
-/* Hover 到 Full tab */
-.pub-tabs:has(#full-tab:hover) #selected-content {
-  display: none;
-}
-
-.pub-tabs:has(#full-tab:hover) #full-content {
+#tab-full:checked ~ .full-content {
   display: block;
 }
 </style>
 
 
-<div class="pub-tabs">
-
-  <!-- Tabs -->
-  <div class="tab-header">
-    <div class="tab-label" id="selected-tab">Selected Publications</div>
-    <div class="tab-label" id="full-tab">Full Publications</div>
-  </div>
-
-  <!-- Selected Publications -->
-  <div class="tab-content" id="selected-content">
-    <!-- 只放你最有代表性的 10 篇 -->
-    
-    <!-- 示例（你自行替换为真实 10 篇） -->
-    <div class="entry">
-      - <strong>FedSA: A Semi-Asynchronous Federated Learning Mechanism in Heterogeneous Edge Computing</strong>
-      [<strong><a href="https://ieeexplore.ieee.org/document/9562538" target="_blank">Link</a></strong>]
-      <br>
-      <strong>Qianpiao Ma</strong>, Yang Xu, Hongli Xu, Zhida Jiang, Liusheng Huang, He Huang<br>
-      <em>IEEE JSAC, 2021, </em>
-      <span class="ccf-badge">CCF-A</span>
-      <span class="cas-badge">中科院一区</span>
-    </div>
-
-    <!-- 再放 9 篇 -->
-  </div>
-
-  <!-- Full Publications -->
-  <div class="tab-content" id="full-content">
-    <!-- 把你“现在的所有论文”原封不动放到这里 -->
-    
-    ### 2025
-    <div class="entry">
-    - <strong>Asynchronous Federated Learning over Non-IID Data via Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Haibo Wang, Yunming Liao, Jianchun Liu, Hongli Xu<br>
-      <em>IEEE Transactions on Networking (TON), 2025</em><span class="ccf-badge">CCF-A</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11078505" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Air-FedGA_A_Grouping_Asynchronous_Federated_Learning_Mechanism_Exploiting_Over-The-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma</strong>, Junlong Zhou, Xiangpeng Hou, Jianchun Liu, Hongli Xu, Jianeng Miao, Qingmin Jia<br>
-      <em>IEEE International Parallel and Distributed Processing Symposium (IPDPS), Milano, Italy, 2025: 1-12</em><span class="ccf-badge">CCF-B</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>FRACTAL: Data-aware Clustering and Communication Optimization for Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10535170" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FRACTAL_Data-aware_Clustering_and_Communication_Optimization_for_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FRACTAL.html" target="_blank">BIB</a></strong>]<br>
-      <strong>Qianpiao Ma*</strong>, Jianchun Liu, Hongli Xu, Qingmin Jia, Renchao Xie<br>
-      <em>IEEE Transactions on Big Data (TBD), 2025, 11(5), 2102-2118</em><span class="cas-badge">中科院二区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11219081" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/CADER_Cost-Efficient_Cloud_Application_Deployment_With_Tenant_Requirement_Guarantee_in_Multi-Clouds.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CADER.html" target="_blank">BIB</a></strong>]<br>
-       Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
-      <em>IEEE Transactions on Cloud Computing (TCC), 2025, 13(4): 1091-1104</em><span class="cas-badge">中科院二区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedQuad.html" target="_blank">BIB</a></strong>]<br>
-       Jianchun Liu, Rukuo Li, Hongli Xu, <strong>Qianpiao Ma</strong>, Jiaming Yan, Liusheng Huang<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DUPLEX.html" target="_blank">BIB</a></strong>]<br>
-       Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>FedACS: An Adaptive Client Selection Framework for Communication-Efficient Federated Graph Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/10972362" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedACS_An_Adaptive_Client_Selection_Framework_for_Communication-Efficient_Federated_Graph_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedACS.html" target="_blank">BIB</a></strong>]<br>
-      Hongli Xu, xianjun Gao, Jianchun Liu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2025, 24(10): 9760-9773</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Accelerating End-Cloud Collaborative Inference via Near Bubble-free Pipeline Optimization</strong>[<strong><a href="https://ieeexplore.ieee.org/document/11044632" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Accelerating_End-Cloud_Collaborative_Inference_via_Near_Bubble-free_Pipeline_Optimization.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/COACH.html" target="_blank">BIB</a></strong>]<br>
-      Luyao Gao, Jianchun Liu, Hongli Xu, Sun Xu, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-      <em>IEEE Conference on Computer Communications (INFOCOM), London, United Kingdom, 2025: 1-10</em><span class="ccf-badge">CCF-A</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_task_offloading_and_resource_allocation_for_energy-harvesting_end–edge–cloud_computing_systems.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DTORA.html" target="_blank">BIB</a></strong>]<br>
-      Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
-      <em>Journal of Systems Architecture: Embedded Software Design, 2025, 103469</em><span class="ccf-badge">CCF-B</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>基于块级多输出和知识自蒸馏的高效联邦学习框架</strong> [<strong><a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedAlt.html" target="_blank">BIB</a></strong>]<br>
-      刘建春,梁文艺,徐宏力,<strong>马千飘</strong>,黄刘生<br>
-      <em>软件学报, 2025</em><span class="ccf-badge">CCF-T1</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>Deterministic computing power networking: Architecture, technologies and prospects</strong> [<strong><a href="http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2024-0561" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Deterministic Computing Power Networking_ Architecture,_Technologies and Prospects.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Deterministic.html" target="_blank">BIB</a></strong>]<br>
-      Qingmin Jia, Yujiao Hu, Xiaomao Zhou, <strong>Qianpiao Ma</strong>, Kai Guo, Huayu Zhang, Renchao Xie, Tao Huang, Yunjie Liu<br>
-      <em>China Communications, 2025</em>
-    </div>
-
-
-    <!-- 后面内容全部照抄你现在的代码 -->
-  </div>
-
-</div>
 
 ### 2025
 
