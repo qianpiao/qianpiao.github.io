@@ -490,7 +490,7 @@ redirect_from:
 .tab-header {
   display: flex;
   gap: 30px;
-  border-bottom: 2px solid #ddd;
+  /*border-bottom: 2px solid #ddd;*/
   margin-bottom: 20px;
 }
 
