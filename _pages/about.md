@@ -615,7 +615,10 @@ redirect_from:
     IEEE International Conference on Peer-to-Peer Computing
   </li>
   <li class="extra-services" style="display:none;">
-    IEEE International Conference on Cloud Computing
+    IEEE International Conference on Peer-to-Peer Computing
+  </li>
+  <li class="extra-services" style="display:none;">
+    The Journal of Supercomputing
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Open Journal of the Communications Society
