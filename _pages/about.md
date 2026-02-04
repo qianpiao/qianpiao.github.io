@@ -583,6 +583,7 @@ redirect_from:
 
   <!-- 默认显示 -->
   <li>IEEE Journal on Selected Areas in Communications</li>
+  <li>IEEE Transactions on Networking</li>
   <li>IEEE Transactions on Mobile Computing</li>
   <li>IEEE Transactions on Services Computing</li>
   <li>IEEE Transactions on Wireless Communications</li>
@@ -603,6 +604,9 @@ redirect_from:
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Green Communications and Networking
+  </li>
+  <li class="extra-services" style="display:none;">
+    IEEE Transactions on Artificial Intelligence
   </li>
   <li class="extra-services" style="display:none;">IEEE Internet of Things Journal</li>
   <li class="extra-services" style="display:none;">
@@ -666,6 +670,7 @@ redirect_from:
 <!-- <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span></li>
+    <li><span style="font-size:16px">IEEE Transactions on Networking</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Mobile Computing</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Services Computing</span></li>
     <li><span style="font-size:16px">IEEE Transactions on Wireless Communications</span></li>
