@@ -269,7 +269,7 @@ redirect_from:
     <div class="entry">
     - <strong>DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning</strong> <br>
       Yizhou Shi, <strong>Qianpiao Ma*</strong>, Yan Xu, Junlong Zhou, Ming Hu, Yunming Liao, Hongli Xu<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
     </div>
     
     <div class="entry">
@@ -344,7 +344,7 @@ redirect_from:
     <div class="entry">
     - <strong>DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning</strong> <br>
       Yizhou Shi, <strong>Qianpiao Ma*</strong>, Yan Xu, Junlong Zhou, Ming Hu, Yunming Liao, Hongli Xu<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span><span class="cas-badge">中科院一区</span>
     </div>
     
     <strong>2025</strong>
