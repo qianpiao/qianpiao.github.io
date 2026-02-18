@@ -49,6 +49,10 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.02</td>
+    <td style="border: none; padding: 8px;">One paper <strong>DySTop</strong> about asynchronous decentralized federated learning accepted by <strong>IEEE TMC</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11300758" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IEEE TON</strong>.</td>
   </tr>
