@@ -338,6 +338,14 @@ redirect_from:
     <div class="entry">
     <span style="font-size:16px"><strong><em>(Corresponding author *)</em></strong> </span>
     </div>
+
+    <strong>2026</strong>
+
+    <div class="entry">
+    - <strong>DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning</strong> <br>
+      Yizhou Shi, <strong>Qianpiao Ma*</strong>, Yan Xu, Junlong Zhou, Ming Hu, Yunming Liao, Hongli Xu<br>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span>
+    </div>
     
     <strong>2025</strong>
 
