@@ -92,11 +92,11 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11078505" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/11044632" target="_blank" style="text-decoration: none">COACH</a> about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
     <td style="border: none; padding: 8px;">I have been granted the <strong>National Natural Science Foundation of China Youth Fund Project</strong>.</td>
   </tr>
@@ -608,15 +608,21 @@ redirect_from:
   <li>IEEE Transactions on Wireless Communications</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Transactions on Intelligent Transportation Systems</li>
+  <li>IEEE Transactions on Fuzzy Systems</li>
   <li>计算机学报</li>
-  <li>Computer Networks</li>
 
   <!-- 隐藏部分 -->
+  <li class="extra-services" style="display:none;">
+    Computer Networks
+  </li>
   <li class="extra-services" style="display:none;">
     Journal of Systems Architecture: Embedded Software Design
   </li>
   <li class="extra-services" style="display:none;">
     Information Sciences
+  </li>
+  <li class="extra-services" style="display:none;">
+    Frontiers of Computer Science
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Big Data
