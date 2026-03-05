@@ -305,7 +305,7 @@ redirect_from:
     <div class="entry">
     - <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11219081" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/CADER_Cost-Efficient_Cloud_Application_Deployment_With_Tenant_Requirement_Guarantee_in_Multi-Clouds.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CADER.html" target="_blank">BIB</a></strong>]<br>
        Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
-      <em>IEEE Transactions on Cloud Computing (TCC), 2025, 13(4): 1091-1104</em><span class="cas-badge">中科院二区</span><span class="ccf-badge">CCF-B</span>
+      <em>IEEE Transactions on Cloud Computing (TCC), 2025, 13(4): 1091-1104</em><span class="ccf-badge">CCF-B</span><span class="cas-badge">中科院二区</span>
     </div>
 
     <div class="entry">
@@ -364,7 +364,7 @@ redirect_from:
     <div class="entry">
     - <strong>CADER: Cost-Efficient Cloud Application Deployment with Tenant Requirement Guarantee in Multi-Clouds</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11219081" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/CADER_Cost-Efficient_Cloud_Application_Deployment_With_Tenant_Requirement_Guarantee_in_Multi-Clouds.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/CADER.html" target="_blank">BIB</a></strong>]<br>
        Huaqing Tu, Ziqiang Hua, <strong>Qianpiao Ma*</strong>, Hanguang Luo, Tao Zou, Gongming Zhao, Hongli Xu<br>
-      <em>IEEE Transactions on Cloud Computing (TCC), 2025, 13(4): 1091-1104</em><span class="cas-badge">中科院二区</span><span class="ccf-badge">CCF-B</span>
+      <em>IEEE Transactions on Cloud Computing (TCC), 2025, 13(4): 1091-1104</em><span class="ccf-badge">CCF-B</span><span class="cas-badge">中科院二区</span>
     </div>
     
     <div class="entry">
