@@ -574,7 +574,6 @@ redirect_from:
 ## 🏆 Grants {#grants}
 
 **主持项目**
-
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">国家自然科学基金委员会, 青年基金, 62402537, 面向预训练模型的边缘联邦学习关键技术研究, 2025-01-01 至 2027-12-31, 30万元</span></li>
@@ -585,7 +584,6 @@ redirect_from:
 
 
 **参与项目**
-
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">国家自然科学基金委员会, 联合基金项目, U25A20442, 边云协同的多模态行为可信感知与稳健解析研究, 2026-01-01 至 2029-12-31, 258万元</span></li>
@@ -597,7 +595,6 @@ redirect_from:
 ## 💼 Services {#services}
 
 **长期担任国际顶级期刊/会议审稿人**
-
 <ul id="services-list" style="font-size:16px; padding-left: 20px;">
 
   <!-- 默认显示 -->
