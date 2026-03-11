@@ -599,6 +599,7 @@ redirect_from:
 
   <!-- 默认显示 -->
   <li>IEEE Journal on Selected Areas in Communications</li>
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
   <li>IEEE Transactions on Computers</li>
   <li>IEEE Transactions on Networking</li>
   <li>IEEE Transactions on Mobile Computing</li>
