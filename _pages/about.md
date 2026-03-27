@@ -352,6 +352,12 @@ redirect_from:
       Yizhou Shi, <strong>Qianpiao Ma*</strong>, Yan Xu, Junlong Zhou, Ming Hu, Yunming Liao, Hongli Xu<br>
       <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span>
     </div>
+
+    <div class="entry">
+    - <strong>基于块级多输出和知识自蒸馏的高效联邦学习框架</strong> [<strong><a href="https://www.jos.org.cn/jos/article/abstract/7466" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/基于块级多输出和知识自蒸馏的高效联邦学习框架.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedAlt.html" target="_blank">BIB</a></strong>]<br>
+      刘建春,梁文艺,徐宏力,<strong>马千飘</strong>,黄刘生<br>
+      <em>软件学报, 2026, 37(3):1357−1373</em><span class="ccf-badge">CCF-T1</span>
+    </div>
     
     <strong>2025</strong>
 
@@ -401,12 +407,6 @@ redirect_from:
     - <strong>Dynamic Task Offloading and Resource Allocation for Energy-Harvesting End-Edge-Cloud Computing Systems</strong> [<strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Dynamic_task_offloading_and_resource_allocation_for_energy-harvesting_end–edge–cloud_computing_systems.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DTORA.html" target="_blank">BIB</a></strong>]<br>
       Xiaozhu Song, <strong>Qianpiao Ma</strong>, Zheng Gan, Liying Li, Peijin Cong, and Junlong Zhou<br>
       <em>Journal of Systems Architecture: Embedded Software Design, 2025, 103469</em><span class="ccf-badge">CCF-B</span>
-    </div>
-    
-    <div class="entry">
-    - <strong>基于块级多输出和知识自蒸馏的高效联邦学习框架</strong> [<strong><a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedAlt.html" target="_blank">BIB</a></strong>]<br>
-      刘建春,梁文艺,徐宏力,<strong>马千飘</strong>,黄刘生<br>
-      <em>软件学报, 2025</em><span class="ccf-badge">CCF-T1</span>
     </div>
     
     <div class="entry">
