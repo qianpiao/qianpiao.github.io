@@ -50,7 +50,7 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.04</td>
-    <td style="border: none; padding: 8px;">Two co-author's papers <strong>NAST</strong> and <strong>VRCEC</strong> accepted by <strong>IWQoS 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">Two co-authored papers <strong>NAST</strong> and <strong>VRCEC</strong> accepted by <strong>IWQoS 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
@@ -62,7 +62,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.12</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/11288048" target="_blank" style="text-decoration: none">DUPLEX</a> about decentralized federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/11288048" target="_blank" style="text-decoration: none">DUPLEX</a> about decentralized federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
@@ -70,7 +70,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.11</td>
-    <td style="border: none; padding: 8px;">My co-author's paper  <a href="https://ieeexplore.ieee.org/document/11268968" target="_blank" style="text-decoration: none">FedQuad</a> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper  <a href="https://ieeexplore.ieee.org/document/11268968" target="_blank" style="text-decoration: none">FedQuad</a> about activation quantization for federated fine-tuning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.10</td>
@@ -86,11 +86,11 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank" style="text-decoration: none">FedAlt</a> about knowledge distillation in federated learning accepted by <strong>Journal of Software</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank" style="text-decoration: none">FedAlt</a> about knowledge distillation in federated learning accepted by <strong>Journal of Software</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.04</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/10972362" target="_blank" style="text-decoration: none">FedACS</a> about federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/10972362" target="_blank" style="text-decoration: none">FedACS</a> about federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
@@ -98,7 +98,7 @@ redirect_from:
   </tr>
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/11044632" target="_blank" style="text-decoration: none">COACH</a> about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/11044632" target="_blank" style="text-decoration: none">COACH</a> about end-cloud collaborative inference accepted by <strong>INFOCOM 2025</strong>.</td>
   </tr>
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.08</td>
@@ -110,7 +110,7 @@ redirect_from:
   </tr>
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.04</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/10682905" target="_blank" style="text-decoration: none">FedACS</a> about client selection in federated learning accepted by <strong>IWQoS 2024</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/10682905" target="_blank" style="text-decoration: none">FedACS</a> about client selection in federated learning accepted by <strong>IWQoS 2024</strong>.</td>
   </tr>
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.02</td>
@@ -134,11 +134,11 @@ redirect_from:
   </tr>
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/10309973" target="_blank" style="text-decoration: none">YOGA</a> about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/10309973" target="_blank" style="text-decoration: none">YOGA</a> about decentralized federated aggregation accepted by <strong>IEEE/ACM TON</strong>.</td>
   </tr>
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.10</td>
-    <td style="border: none; padding: 8px;">My co-author's paper <a href="https://ieeexplore.ieee.org/document/10476088" target="_blank" style="text-decoration: none">FedCD</a> about hybrid federated learning framework accepted by <strong>ICPADS 2023</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/10476088" target="_blank" style="text-decoration: none">FedCD</a> about hybrid federated learning framework accepted by <strong>ICPADS 2023</strong>.</td>
   </tr>
   <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2023.05</td>
