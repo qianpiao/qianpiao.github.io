@@ -50,7 +50,7 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.04</td>
-    <td style="border: none; padding: 8px;">Two co-author's papers <strong>NAST</strong> and <strong>VRCEC/strong> accepted by <strong>IWQoS 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">Two co-author's papers <strong>NAST</strong> and <strong>VRCEC</strong> accepted by <strong>IWQoS 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
