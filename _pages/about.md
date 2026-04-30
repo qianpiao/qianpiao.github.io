@@ -49,6 +49,10 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.04</td>
+    <td style="border: none; padding: 8px;">Two co-author's papers accepted by <strong>IWQoS 2026</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11415304" target="_blank" style="text-decoration: none">DySTop</a> about asynchronous decentralized federated learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
@@ -357,6 +361,18 @@ redirect_from:
     - <strong>基于块级多输出和知识自蒸馏的高效联邦学习框架</strong> [<strong><a href="https://www.jos.org.cn/jos/article/abstract/7466" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/基于块级多输出和知识自蒸馏的高效联邦学习框架.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedAlt.html" target="_blank">BIB</a></strong>]<br>
       刘建春,梁文艺,徐宏力,<strong>马千飘</strong>,黄刘生<br>
       <em>软件学报, 2026, 37(3):1357−1373</em><span class="ccf-badge">CCF-T1</span>
+    </div>
+
+    <div class="entry">
+    - <strong>Joint Optimization of Video Recommendation and Cooperative Edge Caching for Maximizing Profit</strong> <br>
+      Haoqiu Luo, Youling Zeng, Yufan Shen, Yue Zeng, Liying Li, <strong>Qianpiao Ma</strong>, Peijin Cong, Junlong Zhou<br>
+      <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), 2026</em><span class="ccf-badge">CCF-B</span>
+    </div>
+
+    <div class="entry">
+    - <strong>NAST: In-Network Aggregation with Worker Selection for Accelerating Distributed Training</strong> <br>
+      Jianfeng Bao, Peng Yang, Gongming Zhao, Huihui Tang, Hongli Xu, <strong>Qianpiao Ma</strong><br>
+      <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
     
     <strong>2025</strong>
