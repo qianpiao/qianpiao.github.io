@@ -647,6 +647,9 @@ redirect_from:
     IEEE Transactions on Network and Service Management
   </li>
   <li class="extra-services" style="display:none;">
+    IEEE Transactions on Reliability
+  </li>
+  <li class="extra-services" style="display:none;">
     IEEE Transactions on Vehicular Technology
   </li>
   <li class="extra-services" style="display:none;">
