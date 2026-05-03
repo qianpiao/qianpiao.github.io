@@ -366,13 +366,13 @@ redirect_from:
     <div class="entry">
     - <strong>Joint Optimization of Video Recommendation and Cooperative Edge Caching for Maximizing Profit</strong> <br>
       Haoqiu Luo, Youling Zeng, Yufan Shen, Yue Zeng, Liying Li, <strong>Qianpiao Ma</strong>, Peijin Cong, Junlong Zhou<br>
-      <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), 2026</em><span class="ccf-badge">CCF-B</span>
+      <em>IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
 
     <div class="entry">
     - <strong>NAST: In-Network Aggregation with Worker Selection for Accelerating Distributed Training</strong> <br>
       Jianfeng Bao, Peng Yang, Gongming Zhao, Huihui Tang, Hongli Xu, <strong>Qianpiao Ma</strong><br>
-      <em>IEEE/ACM International Workshop on Quality of Service (IWQoS), 2026</em><span class="ccf-badge">CCF-B</span>
+      <em>IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
     
     <strong>2025</strong>
