@@ -657,7 +657,7 @@ redirect_from:
     IEEE Transactions on Vehicular Technology
   </li>
   <li class="extra-services" style="display:none;">
-    Transactions on Consumer Electronics
+    IEEE Transactions on Consumer Electronics
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Green Communications and Networking
