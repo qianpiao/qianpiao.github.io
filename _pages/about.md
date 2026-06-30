@@ -626,6 +626,7 @@ redirect_from:
   <li>IEEE Transactions on Parallel and Distributed Systems</li>
   <li>IEEE Transactions on Services Computing</li>
   <li>IEEE Transactions on Wireless Communications</li>
+  <li>IEEE Transactions on Communications</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Transactions on Intelligent Transportation Systems</li>
   <li>IEEE Transactions on Fuzzy Systems</li>
@@ -655,6 +656,9 @@ redirect_from:
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Vehicular Technology
+  </li>
+  <li class="extra-services" style="display:none;">
+    IEEE Transactions on Network Science and Engineering
   </li>
   <li class="extra-services" style="display:none;">
     IEEE Transactions on Consumer Electronics
