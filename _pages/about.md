@@ -49,6 +49,10 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.02</td>
+    <td style="border: none; padding: 8px;">One paper <strong>FeDiSyn</strong> about federated fine-tuning for LVMs accepted by <strong>ICPP 2026</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
     <td style="border: none; padding: 8px;">I have been appointed as a <strong>Master's Supervisor</strong>.</td>
   </tr>
@@ -278,6 +282,12 @@ redirect_from:
     - <strong>Asynchronous Federated Learning over Non-IID Data via Over-the-air Computation</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11300758" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Asynchronous_Federated_Learning_Over_Non-IID_Data_via_Over-the-Air_Computation.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/Air_FedGA_TON.html" target="_blank">BIB</a></strong>]<br>
       <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Haibo Wang, Yunming Liao, Jianchun Liu, Hongli Xu<br>
       <em>IEEE Transactions on Networking (TON), 2026, 34: 2165-2180</em><span class="ccf-badge">CCF-A</span>
+    </div>
+
+    <div class="entry">
+    - <strong>Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models</strong> <br>
+      <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Yue Zeng, Jianchun Liu, Huaqing Tu<br>
+      <em>International Conference on Parallel Processing (ICPP), 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
     
     <div class="entry">
