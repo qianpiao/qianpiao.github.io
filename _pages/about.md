@@ -49,7 +49,7 @@ redirect_from:
 
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">🎉 2026.02</td>
+    <td style="border: none; padding: 8px;">🎉 2026.07</td>
     <td style="border: none; padding: 8px;">One paper <strong>FeDiSyn</strong> about federated fine-tuning for LVMs accepted by <strong>ICPP 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
