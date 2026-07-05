@@ -92,7 +92,7 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank" style="text-decoration: none">DTORA</a> about task offloading and resource allocation in MEC accepted by <strong>JSA</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">My co-authored paper <a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank" style="text-decoration: none">FedAlt</a> about knowledge distillation in federated learning accepted by <strong>Journal of Software</strong>.</td>
   </tr>
