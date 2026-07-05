@@ -92,15 +92,15 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S1383762125001419" target="_blank" style="text-decoration: none">DTORA</a> about task offloading and resource allocation in MEC accepted by <strong>JSA</strong>.</td>
   </tr>
-  <tr class="extra-news" style="display: none; border: none;">
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">My co-authored paper <a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank" style="text-decoration: none">FedAlt</a> about knowledge distillation in federated learning accepted by <strong>Journal of Software</strong>.</td>
   </tr>
-  <tr class="extra-news" style="display: none; border: none;">
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.04</td>
     <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/10972362" target="_blank" style="text-decoration: none">FedACS</a> about federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
-  <tr class="extra-news" style="display: none; border: none;">
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11078505" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
   </tr>
