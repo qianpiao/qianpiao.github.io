@@ -50,7 +50,7 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.07</td>
-    <td style="border: none; padding: 8px;">One paper <strong>FeDiSyn</strong> about federated fine-tuning via synthetic images for LVMs accepted by <strong>ICPP 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">One paper <strong>FeDiSyn</strong> about Synthetic-Image Pre-Training for Federated Fine-Tuning of LVMs accepted by <strong>ICPP 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
