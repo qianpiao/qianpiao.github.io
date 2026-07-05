@@ -633,7 +633,7 @@ redirect_from:
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">时奕洲：TMC’2026（一作，CCF-A）</span></li>
-    <li><span style="font-size:16px">徐  妍：TMC’2026（参与，CCF-A）</span></li>
+    <li><span style="font-size:16px">徐　妍：TMC’2026（参与，CCF-A）</span></li>
     <li><span style="font-size:16px">宋潇竹：JSA’2025（一作，CCF-B），ToN’2025（学生一作，CCF-A），ICPP’2026（学生一作，CCF-B）</span></li>
     <li><span style="font-size:16px">侯祥鹏：IPDPS’2025（学生一作，CCF-B）</span></li>
   </ul>
