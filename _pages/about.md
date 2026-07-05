@@ -19,29 +19,29 @@ redirect_from:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 12px;">2024.08 - now</td>
-    <td style="border: none; padding: 12px;">Nanjing University of Science and Technology</td>
-    <td style="border: none; padding: 12px;">Associate Professor</td>
+    <td style="border: none; padding: 8px;">2024.08 - now</td>
+    <td style="border: none; padding: 8px;">Nanjing University of Science and Technology</td>
+    <td style="border: none; padding: 8px;">Associate Professor</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 12px;">2022.07 - 2024.07</td>
-    <td style="border: none; padding: 12px;">Purple Mountain Laboratories</td>
-    <td style="border: none; padding: 12px;">Post-doctoral Researcher</td>
+    <td style="border: none; padding: 8px;">2022.07 - 2024.07</td>
+    <td style="border: none; padding: 8px;">Purple Mountain Laboratories</td>
+    <td style="border: none; padding: 8px;">Post-doctoral Researcher</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 12px;">2019.09 - 2022.06</td>
-    <td style="border: none; padding: 12px;">University of Science and Technology of China, <a href="https://int-ustc.github.io/" target="_blank">USTC-INT Group</a></td>
-    <td style="border: none; padding: 12px;">Ph.D.</td>
+    <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China, <a href="https://int-ustc.github.io/" target="_blank">USTC-INT Group</a></td>
+    <td style="border: none; padding: 8px;">Ph.D.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 12px;">2017.09 - 2019.06</td>
-    <td style="border: none; padding: 12px;">University of Science and Technology of China, USTC-INT Group</td>
-    <td style="border: none; padding: 12px;">M.S.</td>
+    <td style="border: none; padding: 8px;">2017.09 - 2019.06</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
+    <td style="border: none; padding: 8px;">M.S.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 12px;">2010.09 - 2014.06</td>
-    <td style="border: none; padding: 12px;">University of Science and Technology of China</td>
-    <td style="border: none; padding: 12px;">B.S.</td>
+    <td style="border: none; padding: 8px;">2010.09 - 2014.06</td>
+    <td style="border: none; padding: 8px;">University of Science and Technology of China</td>
+    <td style="border: none; padding: 8px;">B.S.</td>
   </tr>
 </table>
 
