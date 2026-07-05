@@ -19,29 +19,29 @@ redirect_from:
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2024.08 - now</td>
-    <td style="border: none; padding: 8px;">Nanjing University of Science and Technology</td>
-    <td style="border: none; padding: 8px;">Associate Professor</td>
+    <td style="border: none; padding: 10px;">2024.08 - now</td>
+    <td style="border: none; padding: 10px;">Nanjing University of Science and Technology</td>
+    <td style="border: none; padding: 10px;">Associate Professor</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2022.07 - 2024.07</td>
-    <td style="border: none; padding: 8px;">Purple Mountain Laboratories</td>
-    <td style="border: none; padding: 8px;">Post-doctoral Researcher</td>
+    <td style="border: none; padding: 10px;">2022.07 - 2024.07</td>
+    <td style="border: none; padding: 10px;">Purple Mountain Laboratories</td>
+    <td style="border: none; padding: 10px;">Post-doctoral Researcher</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2019.09 - 2022.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, <a href="https://int-ustc.github.io/" target="_blank">USTC-INT Group</a></td>
-    <td style="border: none; padding: 8px;">Ph.D.</td>
+    <td style="border: none; padding: 10px;">2019.09 - 2022.06</td>
+    <td style="border: none; padding: 10px;">University of Science and Technology of China, <a href="https://int-ustc.github.io/" target="_blank">USTC-INT Group</a></td>
+    <td style="border: none; padding: 10px;">Ph.D.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2017.09 - 2019.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China, USTC-INT Group</td>
-    <td style="border: none; padding: 8px;">M.S.</td>
+    <td style="border: none; padding: 10px;">2017.09 - 2019.06</td>
+    <td style="border: none; padding: 10px;">University of Science and Technology of China, USTC-INT Group</td>
+    <td style="border: none; padding: 10px;">M.S.</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 8px;">2010.09 - 2014.06</td>
-    <td style="border: none; padding: 8px;">University of Science and Technology of China</td>
-    <td style="border: none; padding: 8px;">B.S.</td>
+    <td style="border: none; padding: 10px;">2010.09 - 2014.06</td>
+    <td style="border: none; padding: 10px;">University of Science and Technology of China</td>
+    <td style="border: none; padding: 10px;">B.S.</td>
   </tr>
 </table>
 
@@ -96,11 +96,11 @@ redirect_from:
     <td style="border: none; padding: 8px;">🎉 2025.05</td>
     <td style="border: none; padding: 8px;">My co-authored paper <a href="https://www.jos.org.cn/jos/article/abstract/pi038" target="_blank" style="text-decoration: none">FedAlt</a> about knowledge distillation in federated learning accepted by <strong>Journal of Software</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2025.04</td>
     <td style="border: none; padding: 8px;">My co-authored paper <a href="https://ieeexplore.ieee.org/document/10972362" target="_blank" style="text-decoration: none">FedACS</a> about federated graph learning accepted by <strong>IEEE TMC</strong>.</td>
   </tr>
-  <tr style="border: none;">
+  <tr class="extra-news" style="display: none; border: none;">
     <td style="border: none; padding: 8px;">🎉 2024.12</td>
     <td style="border: none; padding: 8px;">One paper <a href="https://ieeexplore.ieee.org/document/11078505" target="_blank" style="text-decoration: none">Air-FedGA</a> about federated learning via over-the-air computation accepted by <strong>IPDPS 2025</strong>.</td>
   </tr>
