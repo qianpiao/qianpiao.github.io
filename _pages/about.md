@@ -293,7 +293,7 @@ redirect_from:
     <div class="entry">
     - <strong>DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11415304" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/DySTop_Dynamic_Staleness_Control_and_Topology_Construction_for_Asynchronous_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DySTop.html" target="_blank">BIB</a></strong>]<br>
       Yizhou Shi, <strong>Qianpiao Ma*</strong>, Yan Xu, Junlong Zhou, Ming Hu, Yunming Liao, Hongli Xu<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2026, 25(8): 11662 - 11678</em><span class="ccf-badge">CCF-A</span>
     </div>
 
     <div class="entry">
@@ -374,7 +374,7 @@ redirect_from:
     <div class="entry">
     - <strong>DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11415304" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/DySTop_Dynamic_Staleness_Control_and_Topology_Construction_for_Asynchronous_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DySTop.html" target="_blank">BIB</a></strong>]<br>
       Yizhou Shi, <strong>Qianpiao Ma*</strong>, Yan Xu, Junlong Zhou, Ming Hu, Yunming Liao, Hongli Xu<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2026</em><span class="ccf-badge">CCF-A</span>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2026, 25(8): 11662 - 11678</em><span class="ccf-badge">CCF-A</span>
     </div>
 
     <div class="entry">
@@ -418,13 +418,13 @@ redirect_from:
     <div class="entry">
     - <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedQuad.html" target="_blank">BIB</a></strong>]<br>
        Jianchun Liu, Rukuo Li, Hongli Xu, <strong>Qianpiao Ma</strong>, Jiaming Yan, Liusheng Huang<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2025, 25(5): 6320-6334</em><span class="ccf-badge">CCF-A</span>
     </div>
     
     <div class="entry">
     - <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DUPLEX.html" target="_blank">BIB</a></strong>]<br>
        Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2025</em><span class="ccf-badge">CCF-A</span>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2025, 25(5): 6929-6947</em><span class="ccf-badge">CCF-A</span>
     </div>
     
     <div class="entry">
