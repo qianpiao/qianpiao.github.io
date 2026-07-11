@@ -422,7 +422,7 @@ redirect_from:
     </div>
     
     <div class="entry">
-    - <strong>Towards Communication-Efficient Decentralized Federated Graph Learning over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DUPLEX.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>Toward Communication-Efficient Decentralized Federated Graph Learning Over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DUPLEX.html" target="_blank">BIB</a></strong>]<br>
        Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
       <em>IEEE Transactions on Mobile Computing (TMC), 2025, 25(5): 6929-6947</em><span class="ccf-badge">CCF-A</span>
     </div>
