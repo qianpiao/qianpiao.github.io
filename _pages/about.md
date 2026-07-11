@@ -416,13 +416,13 @@ redirect_from:
     </div>
     
     <div class="entry">
-    - <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedQuad.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/FedQuad_Adaptive_Layer-wise_LoRA_Deployment_and_Activation_Quantization_for_Federated_Fine-Tuning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FedQuad.html" target="_blank">BIB</a></strong>]<br>
        Jianchun Liu, Rukuo Li, Hongli Xu, <strong>Qianpiao Ma</strong>, Jiaming Yan, Liusheng Huang<br>
       <em>IEEE Transactions on Mobile Computing (TMC), 2025, 25(5): 6320-6334</em><span class="ccf-badge">CCF-A</span>
     </div>
     
     <div class="entry">
-    - <strong>Toward Communication-Efficient Decentralized Federated Graph Learning Over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DUPLEX.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>Toward Communication-Efficient Decentralized Federated Graph Learning Over Non-IID Data</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11288048" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Toward_Communication-Efficient_Decentralized_Federated_Graph_Learning_Over_Non-IID_Data.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DUPLEX.html" target="_blank">BIB</a></strong>]<br>
        Shilong Wang, Jianchun Liu, Hongli Xu, Chenxia Tang, <strong>Qianpiao Ma</strong>, Liusheng Huang<br>
       <em>IEEE Transactions on Mobile Computing (TMC), 2025, 25(5): 6929-6947</em><span class="ccf-badge">CCF-A</span>
     </div>
