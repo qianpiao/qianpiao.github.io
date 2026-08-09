@@ -651,6 +651,7 @@ redirect_from:
   <li>IEEE Transactions on Networking</li>
   <li>IEEE Transactions on Mobile Computing</li>
   <li>IEEE Transactions on Parallel and Distributed Systems</li>
+  <li>IEEE Transactions on Dependable and Secure Computing</li>
   <li>IEEE Transactions on Services Computing</li>
   <li>IEEE Transactions on Wireless Communications</li>
   <li>IEEE Transactions on Communications</li>
