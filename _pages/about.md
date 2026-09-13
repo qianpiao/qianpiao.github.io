@@ -630,6 +630,7 @@ redirect_from:
 
 ## 👨‍🎓 Students {#students}
 
+**近年指导学生发表论文：**
 <div style="text-align: justify; text-indent: -1.5em;">
   <ul style="list-style-position: inside;">
     <li><span style="font-size:16px">时奕洲：TMC 2026（一作，CCF-A）</span></li>
