@@ -285,15 +285,15 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models</strong> <br>
+    - <strong>Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models</strong> [<strong><a href="https://dl.acm.org/doi/full/10.1145/3832810.3832835" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FeDiSyn.html" target="_blank">BIB</a></strong>]<br>
       <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Yue Zeng, Jianchun Liu, Huaqing Tu<br>
-      <em>International Conference on Parallel Processing (ICPP), Singapore, 2026</em><span class="ccf-badge">CCF-B</span>
+      <em>International Conference on Parallel Processing (ICPP), Singapore, 2026: 1211-1221</em><span class="ccf-badge">CCF-B</span>
     </div>
     
     <div class="entry">
     - <strong>DySTop: Dynamic Staleness Control and Topology Construction for Asynchronous Decentralized Federated Learning</strong> [<strong><a href="https://ieeexplore.ieee.org/document/11415304" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/DySTop_Dynamic_Staleness_Control_and_Topology_Construction_for_Asynchronous_Decentralized_Federated_Learning.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/DySTop.html" target="_blank">BIB</a></strong>]<br>
       Yizhou Shi, <strong>Qianpiao Ma*</strong>, Yan Xu, Junlong Zhou, Ming Hu, Yunming Liao, Hongli Xu<br>
-      <em>IEEE Transactions on Mobile Computing (TMC), 2026, 25(8): 11662 - 11678</em><span class="ccf-badge">CCF-A</span>
+      <em>IEEE Transactions on Mobile Computing (TMC), 2026, 25(8): 11662-11678</em><span class="ccf-badge">CCF-A</span>
     </div>
 
     <div class="entry">
