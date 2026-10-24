@@ -756,32 +756,13 @@ redirect_from:
   });
 </script>
 
-
-<!-- <div style="text-align: justify; text-indent: -1.5em;">
-  <ul style="list-style-position: inside;">
-    <li><span style="font-size:16px">IEEE Journal on Selected Areas in Communications</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Networking</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Mobile Computing</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Services Computing</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Wireless Communications</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Intelligent Transportation Systems</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Big Data</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Network and Service Management</span></li>
-    <li><span style="font-size:16px">IEEE Transactions on Vehicular Technology</span></li>
-    <li><span style="font-size:16px">Future Generation Computer Systems</span></li>
-    <li><span style="font-size:16px">Engineering Applications of Artificial Intelligence</span></li>
-    <li><span style="font-size:16px">IEEE International Conference on Peer-to-Peer Computing</span></li>
-    <li><span style="font-size:16px">IEEE International Conference on Cloud Computing</span></li>
-    <li><span style="font-size:16px">IEEE Internet of Things Journal</span></li>
-    <li><span style="font-size:16px">IEEE Access</span></li>
-    <li><span style="font-size:16px">Internet of Things</span></li>
-    <li><span style="font-size:16px">Scientific Reports</span></li>
-    <li><span style="font-size:16px">Sensors</span></li>
-  </ul>
-</div> -->
-
 <p>&nbsp;</p>
-
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pRpqQFE3fOqpQyHuy8UEEP8n7arl4tWLVAlKnhYx2kc&cl=ffffff&w=b"></script>
+
+
+
+
+
+
 
 
