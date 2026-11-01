@@ -658,6 +658,7 @@ redirect_from:
   <li>IEEE Transactions on Communications</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Transactions on Intelligent Transportation Systems</li>
+  <li>IEEE Transactions on Geoscience and Remote Sensing</li>
   <li>IEEE Transactions on Fuzzy Systems</li>
   <li>计算机学报</li>
 
