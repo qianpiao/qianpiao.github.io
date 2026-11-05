@@ -366,9 +366,9 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models</strong> <br>
+    - <strong>Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models</strong> [<strong><a href="https://dl.acm.org/doi/full/10.1145/3832810.3832835" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Scaling Synthetic-Image Pre-Training for Federated Fine-Tuning of Large Vision Models.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/FeDiSyn.html" target="_blank">BIB</a></strong>]<br>
       <strong>Qianpiao Ma</strong>, Xiaozhu Song, Junlong Zhou, Yue Zeng, Jianchun Liu, Huaqing Tu<br>
-      <em>International Conference on Parallel Processing (ICPP), Singapore, 2026</em><span class="ccf-badge">CCF-B</span>
+      <em>International Conference on Parallel Processing (ICPP), Singapore, 2026: 1211-1221</em><span class="ccf-badge">CCF-B</span>
     </div>
 
     <div class="entry">
@@ -384,13 +384,13 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Joint Optimization of Video Recommendation and Cooperative Edge Caching for Maximizing Profit</strong> <br>
+    - <strong>Joint Optimization of Video Recommendation and Cooperative Edge Caching for Maximizing Profit</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11661230" target="_blank">Link</a></strong>]<br>
       Haoqiu Luo, Youling Zeng, Yufan Shen, Yue Zeng, Liying Li, <strong>Qianpiao Ma</strong>, Peijin Cong, Junlong Zhou<br>
       <em>IEEE/ACM International Symposium on Quality of Service (IWQoS), Istanbul, Türkiye, 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
 
     <div class="entry">
-    - <strong>NAST: In-Network Aggregation with Worker Selection for Accelerating Distributed Training</strong> <br>
+    - <strong>NAST: In-Network Aggregation with Worker Selection for Accelerating Distributed Training</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11661119" target="_blank">Link</a></strong>]<br>
       Jianfeng Bao, Peng Yang, Gongming Zhao, Huihui Tang, Hongli Xu, <strong>Qianpiao Ma</strong><br>
       <em>IEEE/ACM International Symposium on Quality of Service (IWQoS), Istanbul, Türkiye, 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
