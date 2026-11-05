@@ -384,13 +384,13 @@ redirect_from:
     </div>
 
     <div class="entry">
-    - <strong>Joint Optimization of Video Recommendation and Cooperative Edge Caching for Maximizing Profit</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11661230" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/VRCEC.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>Joint Optimization of Video Recommendation and Cooperative Edge Caching for Maximizing Profit</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11661230" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/Joint_Optimization_of_Video_Recommendation_and_Cooperative_Edge_Caching_for_Maximizing_Profit.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/VRCEC.html" target="_blank">BIB</a></strong>]<br>
       Haoqiu Luo, Youling Zeng, Yufan Shen, Yue Zeng, Liying Li, <strong>Qianpiao Ma</strong>, Peijin Cong, Junlong Zhou<br>
       <em>IEEE/ACM International Symposium on Quality of Service (IWQoS), Istanbul, Türkiye, 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
 
     <div class="entry">
-    - <strong>NAST: In-Network Aggregation with Worker Selection for Accelerating Distributed Training</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11661119" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/cite/NAST.html" target="_blank">BIB</a></strong>]<br>
+    - <strong>NAST: In-Network Aggregation with Worker Selection for Accelerating Distributed Training</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11661119" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/NAST_In-Network_Aggregation_with_Worker_Selection_for_Accelerating_Distributed_Training.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/NAST.html" target="_blank">BIB</a></strong>]<br>
       Jianfeng Bao, Peng Yang, Gongming Zhao, Huihui Tang, Hongli Xu, <strong>Qianpiao Ma</strong><br>
       <em>IEEE/ACM International Symposium on Quality of Service (IWQoS), Istanbul, Türkiye, 2026</em><span class="ccf-badge">CCF-B</span>
     </div>
