@@ -50,7 +50,7 @@ redirect_from:
 <table id="news-table" style="border-collapse: collapse; width: 100%; border: none; font-size: 14px;">
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.11</td>
-    <td style="border: none; padding: 8px;">My co-authored paper <strong>SABlock</strong> about KV cache compression accepted by <strong>ISPA 2027</strong>.</td>
+    <td style="border: none; padding: 8px;">My co-authored paper <strong>SABlock</strong> about KV cache compression accepted by <strong>ISPA 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.07</td>
@@ -397,6 +397,12 @@ redirect_from:
     - <strong>NAST: In-Network Aggregation with Worker Selection for Accelerating Distributed Training</strong> [<strong><a href="https://ieeexplore.ieee.org/abstract/document/11661119" target="_blank">Link</a></strong>][<strong><a href="https://qianpiao.github.io/files/NAST_In-Network_Aggregation_with_Worker_Selection_for_Accelerating_Distributed_Training.pdf" target="_blank">PDF</a></strong>][<strong><a href="https://qianpiao.github.io/cite/NAST.html" target="_blank">BIB</a></strong>]<br>
       Jianfeng Bao, Peng Yang, Gongming Zhao, Huihui Tang, Hongli Xu, <strong>Qianpiao Ma</strong><br>
       <em>IEEE/ACM International Symposium on Quality of Service (IWQoS), Istanbul, Türkiye, 2026</em><span class="ccf-badge">CCF-B</span>
+    </div>
+
+    <div class="entry">
+    - <strong>Less Memory, More Sense: Adaptive Compression Block Size for Semantic-Aware KV Cache Eviction</strong> <br>
+      Jinhan Chen, Jianchun Liu, Hongli Xu, Xianjun Gao, <strong>Qianpiao Ma</strong>, Zhenguo Ma<br>
+      <em>IEEE International Symposium on Parallel and Distributed Processing with Applications(ISPA), Kuala Lumpur, Malaysia, 2026</em>
     </div>
     
     <strong>2025</strong>
