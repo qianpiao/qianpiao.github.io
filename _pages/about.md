@@ -53,12 +53,16 @@ redirect_from:
     <td style="border: none; padding: 8px;">My co-authored paper <strong>SABlock</strong> about KV cache compression accepted by <strong>ISPA 2027</strong>.</td>
   </tr>
   <tr style="border: none;">
+    <td style="border: none; padding: 8px;">🎉 2026.07</td>
+    <td style="border: none; padding: 8px;">One paper <a href="https://dl.acm.org/doi/full/10.1145/3832810.3832835" target="_blank" style="text-decoration: none">FeDiSyn</a> about synthetic-image pre-training for federated fine-tuning of LVMs accepted by <strong>ICPP 2026</strong>.</td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.06</td>
     <td style="border: none; padding: 8px;">I have been appointed as a <strong>Master's Supervisor</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.04</td>
-    <td style="border: none; padding: 8px;">Two co-authored papers <a href="https://ieeexplore.ieee.org/document/11661230" target="_blank" style="text-decoration: none">VRCEC</a><strong> and <a href="https://ieeexplore.ieee.org/document/11661119" target="_blank" style="text-decoration: none">NAST</a><strong> accepted by <strong>IWQoS 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">Two co-authored papers <a href="https://ieeexplore.ieee.org/document/11661230" target="_blank" style="text-decoration: none">VRCEC</a> and <a href="https://ieeexplore.ieee.org/document/11661119" target="_blank" style="text-decoration: none">NAST</a> accepted by <strong>IWQoS 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
