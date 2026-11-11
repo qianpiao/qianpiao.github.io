@@ -402,7 +402,7 @@ redirect_from:
     <div class="entry">
     - <strong>Less Memory, More Sense: Adaptive Compression Block Size for Semantic-Aware KV Cache Eviction</strong> <br>
       Jinhan Chen, Jianchun Liu, Hongli Xu, Xianjun Gao, <strong>Qianpiao Ma</strong>, Zhenguo Ma<br>
-      <em>IEEE International Symposium on Parallel and Distributed Processing with Applications(ISPA), Kuala Lumpur, Malaysia, 2026</em>
+      <em>IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), Kuala Lumpur, Malaysia, 2026</em>
     </div>
     
     <strong>2025</strong>
