@@ -62,7 +62,7 @@ redirect_from:
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.04</td>
-    <td style="border: none; padding: 8px;">Two co-authored papers <strong>NAST</strong> and <strong>VRCEC</strong> accepted by <strong>IWQoS 2026</strong>.</td>
+    <td style="border: none; padding: 8px;">Two co-authored papers <a href="https://ieeexplore.ieee.org/document/11661230" target="_blank" style="text-decoration: none">VRCEC</a><strong> and <a href="https://ieeexplore.ieee.org/document/11661119" target="_blank" style="text-decoration: none">NAST</a><strong> accepted by <strong>IWQoS 2026</strong>.</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 8px;">🎉 2026.02</td>
